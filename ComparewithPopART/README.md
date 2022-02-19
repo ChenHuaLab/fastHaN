@@ -1,4 +1,4 @@
-### Description of the AdditionalFile2 ###
+### Description of the SupplementaryFile2 ###
 
 
 1. Data
