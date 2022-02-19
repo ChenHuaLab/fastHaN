@@ -1,0 +1,1162 @@
+vertex:	0	385899	0	1
+vertex:	1	279195	0	1
+vertex:	2	871484	0	1
+vertex:	3	658312	0	1
+vertex:	4	828538	0	1
+vertex:	5	507769	0	1
+vertex:	6	104104	0	1
+vertex:	7	747318	0	1
+vertex:	8	709614	0	1
+vertex:	9	114070	0	1
+vertex:	10	354881	0	1
+vertex:	11	290951	0	1
+vertex:	12	161470	0	1
+vertex:	13	130662	0	1
+vertex:	14	158001	0	2
+vertex:	15	988060	0	1
+vertex:	16	779880	0	1
+vertex:	17	388068	0	2
+vertex:	18	835989	0	1
+vertex:	19	550205	0	2
+vertex:	20	493149	0	1
+vertex:	21	376287	0	1
+vertex:	22	169693	0	1
+vertex:	23	510454	0	1
+vertex:	24	241194	0	1
+vertex:	25	157712	0	2
+vertex:	26	727909	0	1
+vertex:	27	125083	0	1
+vertex:	28	708852	0	1
+vertex:	29	878224	0	1
+vertex:	30	165947	0	2
+vertex:	31	689149	0	1
+vertex:	32	921150	0	1
+vertex:	33	157419	0	2
+vertex:	34	681337	0	2
+vertex:	35	760653	0	1
+vertex:	36	878227	0	1
+vertex:	37	219815	0	1
+vertex:	38	697705	0	1
+vertex:	39	629387	0	1
+vertex:	40	718475	0	1
+vertex:	41	575007	0	1
+vertex:	42	823583	0	1
+vertex:	43	627547	0	1
+vertex:	44	112430	0	1
+vertex:	45	637327	0	1
+vertex:	46	502969	0	1
+vertex:	47	743894	0	1
+vertex:	48	144718	0	2
+vertex:	49	896602	0	1
+vertex:	50	607412	0	1
+vertex:	51	173750	0	1
+vertex:	52	809024	0	1
+vertex:	53	289476	0	1
+vertex:	54	623782	0	1
+vertex:	55	575362	0	1
+vertex:	56	735535	0	1
+vertex:	57	696226	0	1
+vertex:	58	528332	0	1
+vertex:	59	582475	0	1
+vertex:	60	671906	0	1
+vertex:	61	555348	0	1
+vertex:	62	341899	0	1
+vertex:	63	107886	0	1
+vertex:	64	280408	0	1
+vertex:	65	446943	0	1
+vertex:	66	483854	0	1
+vertex:	67	193603	0	1
+vertex:	68	219293	0	1
+vertex:	69	121148	0	1
+vertex:	70	873093	0	1
+vertex:	71	766932	0	1
+vertex:	72	750950	0	1
+vertex:	73	510325	0	1
+vertex:	74	839872	0	1
+vertex:	75	635164	0	1
+vertex:	76	584602	0	1
+vertex:	77	679156	0	1
+vertex:	78	670551	0	1
+vertex:	79	499569	0	1
+vertex:	80	686798	0	1
+vertex:	81	995087	0	1
+vertex:	82	261468	0	1
+vertex:	83	709730	0	1
+vertex:	84	742070	0	1
+vertex:	85	671908	0	1
+vertex:	86	113207	0	1
+vertex:	87	568397	0	1
+vertex:	88	633879	0	1
+vertex:	89	433069	0	1
+vertex:	90	507628	0	1
+vertex:	91	518384	0	1
+vertex:	92	260390	0	1
+vertex:	93	270559	0	1
+vertex:	94	448937	0	1
+vertex:	95	517672	0	1
+vertex:	96	127113	0	1
+vertex:	97	897639	0	1
+vertex:	98	139082	0	1
+vertex:	99	951353	0	2
+vertex:	100	785081	0	1
+vertex:	101	379067	0	1
+vertex:	102	894173	0	1
+vertex:	103	513521	0	1
+vertex:	104	289962	0	1
+vertex:	105	376218	0	3
+vertex:	106	319309	0	1
+vertex:	107	231249	0	1
+vertex:	108	117048	0	1
+vertex:	109	839801	0	3
+vertex:	110	610477	0	1
+vertex:	111	551588	0	1
+vertex:	112	311992	0	1
+vertex:	113	138651	0	1
+vertex:	114	625934	0	1
+vertex:	115	948364	0	1
+vertex:	116	110593	0	1
+vertex:	117	621122	0	2
+vertex:	118	823194	0	2
+vertex:	119	514651	0	2
+vertex:	120	220074	0	1
+vertex:	121	431565	0	1
+vertex:	122	178577	0	1
+vertex:	123	213180	0	1
+vertex:	124	859339	0	1
+vertex:	125	977114	0	1
+vertex:	126	435669	0	1
+vertex:	127	875143	0	2
+vertex:	128	943377	0	1
+vertex:	129	960890	0	1
+vertex:	130	670772	0	1
+vertex:	131	308430	0	1
+vertex:	132	979062	0	1
+vertex:	133	845643	0	1
+vertex:	134	566795	0	1
+vertex:	135	151602	0	1
+vertex:	136	105922	0	1
+vertex:	137	139820	0	1
+vertex:	138	578828	0	1
+vertex:	139	560841	0	3
+vertex:	140	260135	0	1
+vertex:	141	755567	0	1
+vertex:	142	140663	0	1
+vertex:	143	887453	0	1
+vertex:	144	848688	0	1
+vertex:	145	564762	0	1
+vertex:	146	474563	0	1
+vertex:	147	804622	0	1
+vertex:	148	270619	0	2
+vertex:	149	817946	0	1
+vertex:	150	413774	0	1
+vertex:	151	491551	0	1
+vertex:	152	259053	0	1
+vertex:	153	661773	0	1
+vertex:	154	917368	0	1
+vertex:	155	238964	0	1
+vertex:	156	562179	0	1
+vertex:	157	493202	0	1
+vertex:	158	147272	0	1
+vertex:	159	385061	0	1
+vertex:	160	879086	0	1
+vertex:	161	245433	0	1
+vertex:	162	885676	0	1
+vertex:	163	667165	0	1
+vertex:	164	672976	0	1
+vertex:	165	109090	0	1
+vertex:	166	293588	0	1
+vertex:	167	254653	0	1
+vertex:	168	395676	0	1
+vertex:	169	381752	0	1
+vertex:	170	315316	0	1
+vertex:	171	302557	0	1
+vertex:	172	959557	0	1
+vertex:	173	475692	0	1
+vertex:	174	292207	0	1
+vertex:	175	178182	0	1
+vertex:	176	538203	0	1
+vertex:	177	676220	0	1
+vertex:	178	211503	0	1
+vertex:	179	487398	0	1
+vertex:	180	465087	0	1
+vertex:	181	447670	0	2
+vertex:	182	754524	0	1
+vertex:	183	234891	0	1
+vertex:	184	777531	0	1
+vertex:	185	824768	0	1
+vertex:	186	830661	0	1
+vertex:	187	308753	0	1
+vertex:	188	572419	0	1
+vertex:	189	915101	0	1
+vertex:	190	450567	0	1
+vertex:	191	369961	0	1
+vertex:	192	315393	0	1
+vertex:	193	140769	0	1
+vertex:	194	813901	0	1
+vertex:	195	170482	0	1
+vertex:	196	599596	0	1
+vertex:	197	325149	0	1
+vertex:	198	379289	0	1
+vertex:	199	267586	0	1
+vertex:	200	758628	0	1
+vertex:	201	855569	0	1
+vertex:	202	171006	0	1
+vertex:	203	694985	0	1
+vertex:	204	770477	0	1
+vertex:	205	350202	0	1
+vertex:	206	368898	0	1
+vertex:	207	740705	0	1
+vertex:	208	303792	0	1
+vertex:	209	810948	0	1
+vertex:	210	361117	0	1
+vertex:	211	857258	0	1
+vertex:	212	197653	0	1
+vertex:	213	496354	0	1
+vertex:	214	305463	0	1
+vertex:	215	901075	0	1
+vertex:	216	331756	0	1
+vertex:	217	901904	0	1
+vertex:	218	364257	0	1
+vertex:	219	553109	0	1
+vertex:	220	895356	0	1
+vertex:	221	113814	0	1
+vertex:	222	475220	0	1
+vertex:	223	914520	0	1
+vertex:	224	986674	0	1
+vertex:	225	629621	0	2
+vertex:	226	413352	0	1
+vertex:	227	530341	0	1
+vertex:	228	523757	0	1
+vertex:	229	796105	0	1
+vertex:	230	751305	0	1
+vertex:	231	840672	0	2
+vertex:	232	776645	0	1
+vertex:	233	215601	0	1
+vertex:	234	658452	0	1
+vertex:	235	260568	0	1
+vertex:	236	876913	0	1
+vertex:	237	923793	0	1
+vertex:	238	676109	0	1
+vertex:	239	646200	0	1
+vertex:	240	229066	0	1
+vertex:	241	761173	0	1
+vertex:	242	717758	0	1
+vertex:	243	448057	0	1
+vertex:	244	119988	0	1
+vertex:	245	435034	0	1
+vertex:	246	179706	0	1
+vertex:	247	709994	0	1
+vertex:	248	668512	0	1
+vertex:	249	311424	0	1
+vertex:	250	139388	0	1
+vertex:	251	351628	0	2
+vertex:	252	255519	0	1
+vertex:	253	511581	0	1
+vertex:	254	473772	0	1
+vertex:	255	788854	0	1
+vertex:	256	542984	0	1
+vertex:	257	612149	0	2
+vertex:	258	465029	0	2
+vertex:	259	225890	0	2
+vertex:	260	756137	0	1
+vertex:	261	927208	0	1
+vertex:	262	608329	0	1
+vertex:	263	371462	0	1
+vertex:	264	275866	0	1
+vertex:	265	978213	0	1
+vertex:	266	386141	0	1
+vertex:	267	526821	0	1
+vertex:	268	645417	0	1
+vertex:	269	961580	0	1
+vertex:	270	449719	0	1
+vertex:	271	147542	0	1
+vertex:	272	353389	0	1
+vertex:	273	339677	0	1
+vertex:	274	275182	0	1
+vertex:	275	579483	0	1
+vertex:	276	709094	0	1
+vertex:	277	788707	0	1
+vertex:	278	176998	0	1
+vertex:	279	502513	0	1
+vertex:	280	137444	0	1
+vertex:	281	528812	0	1
+vertex:	282	572871	0	1
+vertex:	283	394992	0	1
+vertex:	284	321128	0	1
+vertex:	285	155310	0	1
+vertex:	286	231467	0	1
+vertex:	287	612121	0	1
+vertex:	288	495105	0	1
+vertex:	289	583374	0	1
+vertex:	290	347582	0	1
+vertex:	291	572279	0	1
+vertex:	292	392506	0	1
+vertex:	293	748846	0	1
+vertex:	294	853294	0	2
+vertex:	295	592878	0	2
+vertex:	296	702995	0	3
+vertex:	297	883990	0	3
+vertex:	298	391013	0	1
+vertex:	299	285936	0	1
+vertex:	300	282237	0	1
+vertex:	301	428578	0	1
+vertex:	302	193565	0	1
+vertex:	303	171434	0	1
+vertex:	304	466206	0	1
+vertex:	305	403500	0	2
+vertex:	306	134828	0	1
+vertex:	307	677696	0	2
+vertex:	308	725805	0	1
+vertex:	309	901058	0	2
+vertex:	310	754404	0	1
+vertex:	311	369446	0	1
+vertex:	312	147182	0	1
+vertex:	313	790616	0	1
+vertex:	314	834814	0	1
+vertex:	315	340789	0	1
+vertex:	316	619223	0	1
+vertex:	317	139719	0	1
+vertex:	318	676791	0	1
+vertex:	319	594531	0	1
+vertex:	320	838953	0	1
+vertex:	321	318226	0	1
+vertex:	322	955566	0	1
+vertex:	323	330644	0	1
+vertex:	324	657624	0	1
+vertex:	325	533644	0	1
+vertex:	326	385499	0	1
+vertex:	327	546776	0	1
+vertex:	328	666278	0	1
+vertex:	329	849078	0	1
+vertex:	330	611628	0	1
+vertex:	331	368973	0	1
+vertex:	332	950920	0	1
+vertex:	333	706885	0	1
+vertex:	334	176900	0	1
+vertex:	335	224526	0	1
+vertex:	336	368666	0	1
+vertex:	337	587842	0	1
+vertex:	338	234497	0	1
+vertex:	339	452805	0	1
+vertex:	340	293878	0	1
+vertex:	341	506962	0	1
+vertex:	342	682176	0	1
+vertex:	343	180427	0	1
+vertex:	344	299964	0	1
+vertex:	345	736725	0	1
+vertex:	346	950367	0	2
+vertex:	347	831779	0	1
+vertex:	348	205521	0	1
+vertex:	349	554699	0	1
+vertex:	350	772983	0	1
+vertex:	351	592483	0	1
+vertex:	352	702275	0	1
+vertex:	353	468401	0	1
+vertex:	354	240804	0	1
+vertex:	355	530492	0	1
+vertex:	356	848839	0	1
+vertex:	357	157187	0	1
+vertex:	358	112410	0	1
+vertex:	359	660687	0	1
+vertex:	360	540067	0	1
+vertex:	361	524234	0	1
+vertex:	362	229789	0	1
+vertex:	363	973446	0	1
+vertex:	364	778387	0	1
+vertex:	365	181605	0	1
+vertex:	366	245257	0	1
+vertex:	367	910975	0	1
+vertex:	368	500883	0	1
+vertex:	369	667946	0	1
+vertex:	370	837942	0	1
+vertex:	371	580616	0	1
+vertex:	372	587648	0	1
+vertex:	373	292533	0	1
+vertex:	374	716729	0	1
+vertex:	375	901444	0	1
+vertex:	376	984604	0	1
+vertex:	377	198981	0	1
+vertex:	378	954447	0	1
+vertex:	379	680373	0	1
+vertex:	380	135196	0	1
+vertex:	381	115857	0	1
+vertex:	382	411606	0	1
+vertex:	383	990010	0	1
+vertex:	384	244574	0	1
+vertex:	385	439378	0	1
+vertex:	386	306872	0	1
+vertex:	387	478560	0	1
+vertex:	388	404863	0	1
+vertex:	389	789057	0	1
+vertex:	390	898069	0	1
+vertex:	391	491370	0	1
+vertex:	392	885149	0	2
+vertex:	393	465133	0	4
+vertex:	394	351073	0	1
+vertex:	395	772405	0	1
+vertex:	396	805036	0	1
+vertex:	397	931757	0	1
+vertex:	398	706111	0	1
+vertex:	399	105293	0	1
+vertex:	400	553012	0	1
+vertex:	401	372710	0	1
+vertex:	402	837749	0	1
+vertex:	403	509671	0	1
+vertex:	404	788466	0	1
+vertex:	405	662187	0	1
+vertex:	406	114529	0	1
+vertex:	407	188293	0	1
+vertex:	408	790452	0	1
+vertex:	409	696965	0	1
+vertex:	410	620002	0	1
+vertex:	411	308403	0	1
+vertex:	412	612313	0	1
+vertex:	413	392752	0	1
+vertex:	414	761314	0	1
+vertex:	415	129279	0	1
+vertex:	416	369251	0	1
+vertex:	417	657889	0	1
+vertex:	418	807454	0	1
+vertex:	419	327770	0	1
+vertex:	420	668051	0	1
+vertex:	421	387269	0	1
+vertex:	422	754872	0	1
+vertex:	423	304806	0	1
+vertex:	424	534291	0	1
+vertex:	425	536588	0	1
+vertex:	426	603147	0	1
+vertex:	427	500686	0	1
+vertex:	428	773753	0	1
+vertex:	429	199968	0	1
+vertex:	430	875239	0	1
+vertex:	431	607364	0	1
+vertex:	432	654492	0	1
+vertex:	433	653873	0	1
+vertex:	434	398980	0	1
+vertex:	435	674892	0	1
+vertex:	436	154688	0	1
+vertex:	437	342681	0	1
+vertex:	438	996082	0	1
+vertex:	439	510965	0	1
+vertex:	440	580298	0	1
+vertex:	441	423883	0	1
+vertex:	442	339383	0	1
+vertex:	443	755083	0	1
+vertex:	444	988289	0	2
+vertex:	445	950353	0	1
+vertex:	446	363706	0	1
+vertex:	447	804549	0	1
+vertex:	448	942125	0	3
+vertex:	449	918554	0	1
+vertex:	450	842732	0	1
+vertex:	451	671838	0	1
+vertex:	452	107206	0	1
+vertex:	453	192100	0	1
+vertex:	454	338410	0	1
+vertex:	455	418777	0	1
+vertex:	456	IN2	1	1
+vertex:	457	IN3	1	1
+vertex:	458	IN4	1	1
+vertex:	459	IN5	1	1
+vertex:	460	IN10	1	1
+vertex:	461	IN11	1	1
+vertex:	462	IN13	1	1
+vertex:	463	IN14	1	1
+vertex:	464	IN19	1	1
+vertex:	465	IN21	1	1
+vertex:	466	IN23	1	1
+vertex:	467	IN32	1	1
+vertex:	468	IN33	1	1
+vertex:	469	IN42	1	1
+vertex:	470	IN44	1	1
+vertex:	471	IN45	1	1
+vertex:	472	IN53	1	1
+vertex:	473	IN54	1	1
+vertex:	474	IN55	1	1
+vertex:	475	IN59	1	1
+vertex:	476	IN67	1	1
+vertex:	477	IN69	1	1
+vertex:	478	IN75	1	1
+vertex:	479	IN77	1	1
+vertex:	480	IN87	1	1
+vertex:	481	IN90	1	1
+vertex:	482	IN105	1	1
+vertex:	483	IN107	1	1
+vertex:	484	IN111	1	1
+vertex:	485	IN117	1	1
+vertex:	486	IN123	1	1
+vertex:	487	IN125	1	1
+vertex:	488	IN135	1	1
+vertex:	489	IN136	1	1
+vertex:	490	IN150	1	1
+vertex:	491	IN152	1	1
+vertex:	492	IN153	1	1
+vertex:	493	IN158	1	1
+vertex:	494	IN164	1	1
+vertex:	495	IN166	1	1
+vertex:	496	IN171	1	1
+vertex:	497	IN172	1	1
+vertex:	498	IN175	1	1
+vertex:	499	IN178	1	1
+vertex:	500	IN181	1	1
+vertex:	501	IN183	1	1
+vertex:	502	IN184	1	1
+vertex:	503	IN187	1	1
+vertex:	504	IN192	1	1
+vertex:	505	IN197	1	1
+vertex:	506	IN227	1	1
+vertex:	507	IN246	1	1
+vertex:	508	IN251	1	1
+vertex:	509	IN258	1	1
+vertex:	510	IN261	1	1
+vertex:	511	IN266	1	1
+vertex:	512	IN267	1	1
+vertex:	513	IN268	1	1
+vertex:	514	IN271	1	1
+vertex:	515	IN277	1	1
+vertex:	516	IN278	1	1
+vertex:	517	IN287	1	1
+vertex:	518	IN288	1	1
+vertex:	519	IN298	1	1
+vertex:	520	IN302	1	1
+vertex:	521	IN305	1	1
+vertex:	522	IN312	1	1
+vertex:	523	IN323	1	1
+vertex:	524	IN342	1	1
+vertex:	525	IN356	1	1
+vertex:	526	IN362	1	1
+vertex:	527	IN366	1	1
+vertex:	528	IN376	1	1
+vertex:	529	IN382	1	1
+vertex:	530	IN386	1	1
+vertex:	531	IN387	1	1
+vertex:	532	IN422	1	1
+vertex:	533	IN431	1	1
+vertex:	534	IN438	1	1
+vertex:	535	IN451	1	1
+vertex:	536	IN455	1	1
+vertex:	537	IN498	1	1
+vertex:	538	IN508	1	1
+vertex:	539	IN531	1	1
+vertex:	540	IN551	1	1
+vertex:	541	IN554	1	1
+vertex:	542	IN564	1	1
+vertex:	543	IN575	1	1
+vertex:	544	IN590	1	1
+vertex:	545	IN596	1	1
+vertex:	546	IN599	1	1
+vertex:	547	IN601	1	1
+vertex:	548	IN610	1	1
+vertex:	549	IN616	1	1
+vertex:	550	IN639	1	1
+vertex:	551	IN655	1	1
+vertex:	552	IN664	1	1
+vertex:	553	IN675	1	1
+vertex:	554	IN678	1	1
+vertex:	555	IN696	1	1
+vertex:	556	IN711	1	1
+vertex:	557	IN723	1	1
+vertex:	558	IN753	1	1
+vertex:	559	IN784	1	1
+vertex:	560	IN789	1	1
+vertex:	561	IN802	1	1
+vertex:	562	IN827	1	1
+vertex:	563	IN837	1	1
+vertex:	564	IN838	1	1
+vertex:	565	IN869	1	1
+vertex:	566	IN870	1	1
+vertex:	567	IN873	1	1
+vertex:	568	IN925	1	1
+vertex:	569	IN949	1	1
+vertex:	570	IN1010	1	1
+vertex:	571	IN1029	1	1
+vertex:	572	IN1056	1	1
+vertex:	573	IN1093	1	1
+vertex:	574	IN1172	1	1
+vertex:	575	IN1183	1	1
+vertex:	576	IN1365	1	1
+vertex:	577	IN1378	1	1
+vertex:	578	IN1491	1	1
+edge:	3	6	1
+edge:	0	7	1
+edge:	7	1	1
+edge:	7	2	1
+edge:	6	9	1
+edge:	17	22	1
+edge:	18	30	1
+edge:	47	48	1
+edge:	30	70	1
+edge:	75	78	1
+edge:	76	79	1
+edge:	79	80	1
+edge:	75	84	1
+edge:	95	97	1
+edge:	99	100	1
+edge:	110	113	1
+edge:	111	115	1
+edge:	26	117	1
+edge:	117	105	1
+edge:	105	120	1
+edge:	22	123	1
+edge:	125	137	1
+edge:	105	140	1
+edge:	7	144	1
+edge:	144	54	1
+edge:	144	75	1
+edge:	22	148	1
+edge:	22	150	1
+edge:	144	152	1
+edge:	27	177	1
+edge:	127	204	1
+edge:	35	207	1
+edge:	30	208	1
+edge:	27	220	1
+edge:	199	223	1
+edge:	181	230	1
+edge:	236	238	1
+edge:	117	241	1
+edge:	55	250	1
+edge:	233	253	1
+edge:	42	256	1
+edge:	282	287	1
+edge:	16	288	1
+edge:	144	288	1
+edge:	144	290	1
+edge:	295	302	1
+edge:	300	303	1
+edge:	312	313	1
+edge:	22	318	1
+edge:	229	335	1
+edge:	27	340	1
+edge:	144	342	1
+edge:	342	195	1
+edge:	117	345	1
+edge:	117	346	1
+edge:	105	349	1
+edge:	85	356	1
+edge:	17	358	1
+edge:	358	27	1
+edge:	358	185	1
+edge:	358	277	1
+edge:	193	384	1
+edge:	388	389	1
+edge:	390	393	1
+edge:	286	394	1
+edge:	288	394	1
+edge:	79	408	1
+edge:	408	376	1
+edge:	207	416	1
+edge:	105	417	1
+edge:	105	418	1
+edge:	348	421	1
+edge:	22	425	1
+edge:	288	429	1
+edge:	427	433	1
+edge:	266	440	1
+edge:	117	455	1
+edge:	39	456	1
+edge:	456	40	1
+edge:	54	457	1
+edge:	457	53	1
+edge:	15	458	1
+edge:	458	63	1
+edge:	67	459	1
+edge:	459	68	1
+edge:	117	460	1
+edge:	460	64	1
+edge:	48	461	1
+edge:	461	118	1
+edge:	139	462	1
+edge:	462	162	1
+edge:	17	463	1
+edge:	463	169	1
+edge:	203	464	1
+edge:	464	219	1
+edge:	41	465	1
+edge:	465	232	1
+edge:	43	466	1
+edge:	466	237	1
+edge:	457	250	1
+edge:	288	467	1
+edge:	467	91	1
+edge:	288	468	1
+edge:	468	284	1
+edge:	127	469	1
+edge:	469	334	1
+edge:	352	470	1
+edge:	470	354	1
+edge:	245	471	1
+edge:	471	355	1
+edge:	395	472	1
+edge:	472	399	1
+edge:	358	473	1
+edge:	473	411	1
+edge:	412	474	1
+edge:	474	413	1
+edge:	465	431	1
+edge:	6	475	1
+edge:	476	100	1
+edge:	144	477	1
+edge:	17	478	1
+edge:	24	479	1
+edge:	480	206	1
+edge:	127	481	1
+edge:	288	482	1
+edge:	288	483	1
+edge:	127	484	1
+edge:	141	485	1
+edge:	486	339	1
+edge:	487	343	1
+edge:	72	488	1
+edge:	488	489	1
+edge:	489	370	1
+edge:	288	490	1
+edge:	468	491	1
+edge:	491	447	1
+edge:	17	492	1
+edge:	45	493	1
+edge:	492	494	1
+edge:	62	495	1
+edge:	127	496	1
+edge:	496	497	1
+edge:	497	458	1
+edge:	46	498	1
+edge:	488	499	1
+edge:	500	157	1
+edge:	501	502	1
+edge:	502	165	1
+edge:	7	503	1
+edge:	288	503	1
+edge:	504	199	1
+edge:	505	471	1
+edge:	464	507	1
+edge:	127	508	1
+edge:	17	511	1
+edge:	511	512	1
+edge:	512	513	1
+edge:	511	515	1
+edge:	515	499	1
+edge:	456	516	1
+edge:	511	517	1
+edge:	517	518	1
+edge:	127	521	1
+edge:	522	216	1
+edge:	490	524	1
+edge:	524	520	1
+edge:	117	525	1
+edge:	286	529	1
+edge:	288	529	1
+edge:	472	530	1
+edge:	530	531	1
+edge:	498	532	1
+edge:	127	533	1
+edge:	127	537	1
+edge:	503	538	1
+edge:	468	538	1
+edge:	531	539	1
+edge:	540	518	1
+edge:	542	502	1
+edge:	517	543	1
+edge:	468	546	1
+edge:	288	548	1
+edge:	127	549	1
+edge:	518	550	1
+edge:	539	552	1
+edge:	127	556	1
+edge:	518	557	1
+edge:	127	561	1
+edge:	563	564	1
+edge:	565	566	1
+edge:	288	567	1
+edge:	523	568	1
+edge:	144	574	1
+edge:	144	575	1
+edge:	144	576	1
+edge:	538	577	1
+edge:	7	10	2
+edge:	74	79	2
+edge:	101	105	2
+edge:	109	110	2
+edge:	111	112	2
+edge:	23	127	2
+edge:	17	173	2
+edge:	171	199	2
+edge:	61	207	2
+edge:	69	214	2
+edge:	54	228	2
+edge:	144	234	2
+edge:	59	241	2
+edge:	105	251	2
+edge:	243	251	2
+edge:	258	259	2
+edge:	117	270	2
+edge:	251	273	2
+edge:	181	285	2
+edge:	19	288	2
+edge:	295	296	2
+edge:	295	299	2
+edge:	295	300	2
+edge:	295	301	2
+edge:	119	313	2
+edge:	117	316	2
+edge:	117	325	2
+edge:	229	326	2
+edge:	105	350	2
+edge:	81	358	2
+edge:	131	358	2
+edge:	142	358	2
+edge:	171	366	2
+edge:	39	371	2
+edge:	144	392	2
+edge:	391	393	2
+edge:	27	437	2
+edge:	144	445	2
+edge:	446	448	2
+edge:	5	475	2
+edge:	7	475	2
+edge:	33	465	2
+edge:	105	108	3
+edge:	116	465	2
+edge:	127	476	2
+edge:	127	462	2
+edge:	77	477	2
+edge:	83	144	3
+edge:	48	146	3
+edge:	156	478	2
+edge:	158	479	2
+edge:	160	479	2
+edge:	54	166	3
+edge:	27	170	3
+edge:	104	181	3
+edge:	200	480	2
+edge:	30	209	3
+edge:	211	481	2
+edge:	218	480	2
+edge:	105	246	3
+edge:	144	249	3
+edge:	252	465	2
+edge:	117	275	3
+edge:	117	276	3
+edge:	183	468	2
+edge:	4	285	3
+edge:	29	482	2
+edge:	127	483	2
+edge:	285	289	3
+edge:	297	484	2
+edge:	22	308	3
+edge:	105	317	3
+edge:	321	485	2
+edge:	17	324	3
+edge:	333	466	2
+edge:	90	486	2
+edge:	144	487	2
+edge:	105	347	3
+edge:	105	348	3
+edge:	241	470	2
+edge:	358	461	2
+edge:	149	358	3
+edge:	368	473	2
+edge:	369	489	2
+edge:	384	461	2
+edge:	398	472	2
+edge:	383	416	3
+edge:	199	420	3
+edge:	204	428	3
+edge:	440	480	2
+edge:	181	441	3
+edge:	444	468	2
+edge:	446	490	2
+edge:	20	492	3
+edge:	49	461	3
+edge:	57	493	3
+edge:	27	87	4
+edge:	88	494	2
+edge:	89	495	3
+edge:	97	476	3
+edge:	136	465	3
+edge:	147	498	3
+edge:	154	499	2
+edge:	478	500	2
+edge:	38	501	2
+edge:	465	502	2
+edge:	168	494	2
+edge:	181	503	3
+edge:	86	504	3
+edge:	214	222	4
+edge:	117	505	2
+edge:	105	248	4
+edge:	251	271	4
+edge:	127	278	4
+edge:	105	281	4
+edge:	181	283	4
+edge:	280	285	4
+edge:	21	288	4
+edge:	189	288	4
+edge:	279	288	4
+edge:	293	505	2
+edge:	184	506	2
+edge:	309	506	2
+edge:	144	486	3
+edge:	217	342	4
+edge:	262	342	4
+edge:	199	357	4
+edge:	94	358	4
+edge:	105	364	4
+edge:	375	507	2
+edge:	127	396	4
+edge:	419	508	3
+edge:	117	422	4
+edge:	359	509	2
+edge:	423	509	2
+edge:	351	510	2
+edge:	454	510	2
+edge:	32	465	4
+edge:	42	513	2
+edge:	17	514	2
+edge:	58	514	3
+edge:	65	492	4
+edge:	82	516	3
+edge:	107	460	4
+edge:	128	488	4
+edge:	132	518	2
+edge:	130	500	4
+edge:	144	159	5
+edge:	181	519	2
+edge:	79	519	3
+edge:	125	520	2
+edge:	198	520	3
+edge:	214	521	4
+edge:	11	522	4
+edge:	227	516	3
+edge:	239	518	3
+edge:	253	512	3
+edge:	254	492	4
+edge:	197	523	2
+edge:	255	523	3
+edge:	189	261	5
+edge:	144	263	5
+edge:	144	282	5
+edge:	93	288	5
+edge:	117	291	5
+edge:	292	518	3
+edge:	298	468	4
+edge:	54	305	5
+edge:	310	525	4
+edge:	66	526	3
+edge:	330	526	2
+edge:	17	527	3
+edge:	367	527	2
+edge:	374	490	4
+edge:	127	379	5
+edge:	476	528	2
+edge:	380	528	2
+edge:	358	382	5
+edge:	388	529	4
+edge:	397	531	2
+edge:	17	424	5
+edge:	426	523	3
+edge:	438	514	3
+edge:	127	450	5
+edge:	13	497	4
+edge:	31	515	4
+edge:	466	513	3
+edge:	495	517	3
+edge:	61	127	6
+edge:	71	518	4
+edge:	121	518	4
+edge:	145	532	4
+edge:	36	151	6
+edge:	161	533	5
+edge:	28	534	3
+edge:	167	534	3
+edge:	176	488	5
+edge:	54	506	4
+edge:	92	535	4
+edge:	191	535	2
+edge:	190	536	3
+edge:	192	536	3
+edge:	114	523	4
+edge:	172	523	4
+edge:	8	216	6
+edge:	226	481	5
+edge:	127	240	6
+edge:	117	244	6
+edge:	260	506	4
+edge:	264	501	4
+edge:	117	269	6
+edge:	294	533	5
+edge:	304	537	5
+edge:	144	306	6
+edge:	331	538	4
+edge:	186	486	5
+edge:	341	533	5
+edge:	17	509	4
+edge:	361	527	4
+edge:	378	520	4
+edge:	479	531	3
+edge:	400	539	3
+edge:	415	463	5
+edge:	37	512	5
+edge:	106	117	7
+edge:	12	540	4
+edge:	533	541	3
+edge:	133	541	3
+edge:	98	144	7
+edge:	540	542	2
+edge:	431	542	2
+edge:	174	499	5
+edge:	187	475	6
+edge:	504	543	3
+edge:	215	465	6
+edge:	267	533	6
+edge:	17	544	3
+edge:	274	544	4
+edge:	468	545	3
+edge:	178	545	3
+edge:	546	547	2
+edge:	225	547	3
+edge:	153	288	7
+edge:	295	548	6
+edge:	313	549	6
+edge:	319	544	4
+edge:	211	526	5
+edge:	336	501	5
+edge:	144	344	7
+edge:	356	550	4
+edge:	73	358	7
+edge:	377	520	5
+edge:	126	551	3
+edge:	386	551	4
+edge:	393	467	6
+edge:	25	552	3
+edge:	522	539	3
+edge:	401	518	5
+edge:	517	553	3
+edge:	409	553	2
+edge:	541	554	2
+edge:	410	554	2
+edge:	436	506	5
+edge:	449	468	6
+edge:	452	517	5
+edge:	534	552	2
+edge:	550	551	2
+edge:	518	555	2
+edge:	179	555	4
+edge:	180	477	7
+edge:	155	506	6
+edge:	507	556	5
+edge:	127	205	8
+edge:	221	557	5
+edge:	229	523	6
+edge:	134	468	7
+edge:	182	468	7
+edge:	17	328	8
+edge:	468	558	2
+edge:	338	558	5
+edge:	337	358	8
+edge:	360	540	5
+edge:	362	477	7
+edge:	127	372	8
+edge:	496	559	3
+edge:	381	559	4
+edge:	523	560	2
+edge:	402	560	4
+edge:	164	553	6
+edge:	480	554	5
+edge:	414	561	7
+edge:	433	482	7
+edge:	241	434	8
+edge:	435	550	5
+edge:	407	562	2
+edge:	439	562	6
+edge:	485	555	4
+edge:	516	563	2
+edge:	535	564	2
+edge:	213	533	8
+edge:	235	469	8
+edge:	247	543	6
+edge:	258	496	8
+edge:	468	565	4
+edge:	265	566	3
+edge:	557	567	5
+edge:	224	490	8
+edge:	332	561	8
+edge:	510	541	4
+edge:	143	509	7
+edge:	314	528	7
+edge:	323	380	9
+edge:	403	555	5
+edge:	405	518	7
+edge:	406	568	6
+edge:	474	546	6
+edge:	127	451	9
+edge:	110	569	6
+edge:	115	569	4
+edge:	30	556	9
+edge:	122	547	7
+edge:	34	566	7
+edge:	50	468	9
+edge:	127	307	10
+edge:	363	520	8
+edge:	60	528	8
+edge:	127	570	7
+edge:	14	570	4
+edge:	533	569	6
+edge:	103	518	9
+edge:	545	571	3
+edge:	44	571	5
+edge:	51	506	9
+edge:	127	210	11
+edge:	127	572	5
+edge:	257	572	6
+edge:	36	548	10
+edge:	56	309	11
+edge:	373	468	10
+edge:	520	573	4
+edge:	385	573	5
+edge:	387	573	6
+edge:	430	570	7
+edge:	443	558	8
+edge:	201	491	10
+edge:	102	559	8
+edge:	124	549	11
+edge:	127	138	12
+edge:	175	533	11
+edge:	129	506	10
+edge:	188	574	11
+edge:	194	575	11
+edge:	242	555	8
+edge:	236	524	10
+edge:	163	487	11
+edge:	365	468	11
+edge:	404	564	8
+edge:	96	533	12
+edge:	493	575	11
+edge:	468	536	9
+edge:	482	563	8
+edge:	315	483	12
+edge:	327	572	8
+edge:	329	560	9
+edge:	353	520	11
+edge:	432	484	12
+edge:	127	459	13
+edge:	127	135	14
+edge:	196	571	9
+edge:	212	537	13
+edge:	322	576	13
+edge:	530	577	9
+edge:	567	577	2
+edge:	288	562	12
+edge:	52	576	15
+edge:	231	521	15
+edge:	54	320	16
+edge:	442	563	12
+edge:	453	508	15
+edge:	524	568	12
+edge:	532	559	12
+edge:	519	578	3
+edge:	311	578	13
+edge:	202	565	15
+edge:	127	525	20
+edge:	272	578	16
+edge:	268	574	22
