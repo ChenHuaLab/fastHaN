@@ -1,12 +1,14 @@
 ### Description of the SupplementaryFile2 ###
 
 
-1. Data<br>
+1. Data
+==============
   1.1 Test50.phy.gz: the test data contains 50 samples<br>
   1.2 Test500.phy.gz: the test data contains 500 samples<br>
 
 
 2. Test50
+==============
   * network constructed with MJN and TCS algorithms by fastHaN and PopART
   * sample size is 50
 
@@ -15,6 +17,7 @@
 
 
 3. Test500
+===============
   * network constructed with MJN and TCS algorithms by fastHaN and PopART
   * sample size is 500
   * one or eight threads used for fastHaN<br>
