@@ -15,14 +15,14 @@ Description
 
 Quick start guide
 ========================
-    For Linux:
+    For Linux:（Please ensure that your computer system supports the avx instruction set, or the program will exit with an error.）
     1. download the software and grant execution permissions
        chmod +x fastHaN_linux
 
     2. run the test data (Example/Test1000.phy.gz) with mjn algorithm
        ./fastHaN_linux mjn -i Example/Test1000.phy.gz -t 8 -o Test1000
 
-    For windows:
+    For windows:（Please ensure that your computer system supports the avx instruction set, or the program will exit with an error.）
     1. run in the CMD window
         fastHaN_win.exe mjn -i Example/Test1000.phy.gz -t 8 -o Test1000
 
