@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="myfunction.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="209196" topLine="5733" />
+		</Cursor>
+		<Folding>
+			<Collapse line="34" />
+			<Collapse line="51" />
+			<Collapse line="88" />
+			<Collapse line="5551" />
+			<Collapse line="5992" />
+			<Collapse line="6016" />
+			<Collapse line="6057" />
+			<Collapse line="6106" />
+		</Folding>
+	</File>
+	<File name="tcs.c" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3430" topLine="9" />
+		</Cursor>
+		<Folding>
+			<Collapse line="14" />
+			<Collapse line="61" />
+			<Collapse line="98" />
+			<Collapse line="118" />
+			<Collapse line="137" />
+			<Collapse line="155" />
+			<Collapse line="198" />
+			<Collapse line="250" />
+			<Collapse line="323" />
+			<Collapse line="330" />
+			<Collapse line="334" />
+			<Collapse line="342" />
+			<Collapse line="362" />
+			<Collapse line="382" />
+			<Collapse line="420" />
+			<Collapse line="429" />
+			<Collapse line="433" />
+			<Collapse line="441" />
+			<Collapse line="451" />
+			<Collapse line="455" />
+			<Collapse line="467" />
+			<Collapse line="480" />
+			<Collapse line="504" />
+			<Collapse line="525" />
+			<Collapse line="573" />
+			<Collapse line="626" />
+			<Collapse line="675" />
+			<Collapse line="730" />
+			<Collapse line="791" />
+			<Collapse line="807" />
+			<Collapse line="827" />
+			<Collapse line="834" />
+			<Collapse line="843" />
+			<Collapse line="859" />
+			<Collapse line="900" />
+			<Collapse line="917" />
+			<Collapse line="946" />
+			<Collapse line="978" />
+			<Collapse line="1025" />
+			<Collapse line="1031" />
+			<Collapse line="1039" />
+			<Collapse line="1089" />
+			<Collapse line="1111" />
+			<Collapse line="1123" />
+			<Collapse line="1162" />
+			<Collapse line="1211" />
+			<Collapse line="1265" />
+			<Collapse line="1281" />
+			<Collapse line="1291" />
+			<Collapse line="1307" />
+			<Collapse line="1351" />
+			<Collapse line="1366" />
+			<Collapse line="1384" />
+			<Collapse line="1394" />
+			<Collapse line="1421" />
+			<Collapse line="1449" />
+			<Collapse line="1492" />
+			<Collapse line="1507" />
+		</Folding>
+	</File>
+	<File name="mjn.c" open="1" top="1" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="25004" topLine="89" />
+		</Cursor>
+		<Folding>
+			<Collapse line="4" />
+			<Collapse line="46" />
+			<Collapse line="90" />
+			<Collapse line="111" />
+			<Collapse line="117" />
+			<Collapse line="141" />
+			<Collapse line="157" />
+			<Collapse line="181" />
+			<Collapse line="199" />
+			<Collapse line="211" />
+			<Collapse line="228" />
+			<Collapse line="250" />
+			<Collapse line="261" />
+			<Collapse line="280" />
+			<Collapse line="300" />
+			<Collapse line="327" />
+			<Collapse line="332" />
+			<Collapse line="340" />
+			<Collapse line="344" />
+			<Collapse line="371" />
+			<Collapse line="397" />
+			<Collapse line="405" />
+			<Collapse line="416" />
+			<Collapse line="441" />
+			<Collapse line="476" />
+			<Collapse line="493" />
+			<Collapse line="498" />
+			<Collapse line="549" />
+			<Collapse line="561" />
+			<Collapse line="569" />
+			<Collapse line="577" />
+			<Collapse line="591" />
+			<Collapse line="663" />
+			<Collapse line="721" />
+			<Collapse line="798" />
+			<Collapse line="803" />
+			<Collapse line="807" />
+			<Collapse line="837" />
+			<Collapse line="854" />
+			<Collapse line="868" />
+			<Collapse line="957" />
+			<Collapse line="969" />
+			<Collapse line="997" />
+			<Collapse line="1005" />
+			<Collapse line="1080" />
+			<Collapse line="1123" />
+			<Collapse line="1139" />
+			<Collapse line="1144" />
+			<Collapse line="1171" />
+			<Collapse line="1175" />
+			<Collapse line="1179" />
+			<Collapse line="1199" />
+			<Collapse line="1242" />
+			<Collapse line="1248" />
+			<Collapse line="1328" />
+			<Collapse line="1359" />
+			<Collapse line="1376" />
+			<Collapse line="1466" />
+			<Collapse line="1488" />
+			<Collapse line="1513" />
+			<Collapse line="1584" />
+			<Collapse line="1590" />
+			<Collapse line="1628" />
+			<Collapse line="1725" />
+			<Collapse line="1763" />
+			<Collapse line="1798" />
+			<Collapse line="1828" />
+			<Collapse line="1832" />
+			<Collapse line="1843" />
+			<Collapse line="1878" />
+			<Collapse line="1888" />
+			<Collapse line="1900" />
+			<Collapse line="1940" />
+		</Folding>
+	</File>
+	<File name="makefile" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="269" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="mjn.h" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="368" topLine="10" />
+		</Cursor>
+	</File>
+	<File name="myfunction.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="523" topLine="16" />
+		</Cursor>
+	</File>
+	<File name="myutil.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="85090" topLine="3124" />
+		</Cursor>
+	</File>
+	<File name="network.c" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="779" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="2" />
+		</Folding>
+	</File>
+	<File name="tcs.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="467" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
