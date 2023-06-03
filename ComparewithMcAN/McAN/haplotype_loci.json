@@ -1,0 +1,1127 @@
+{
+	"nodes":	[{
+			"date":	"2021-01-02",
+			"id":	"Node_0",
+			"jump":	-1,
+			"SNPs":	["1(Deletion:AATTAAAGGTTTATACCTTCCCAGGTAACAAACCAACCA->-)", "241(SNP:C->T)", "913(SNP:C->T)", "2453(SNP:C->T)", "2509(SNP:C->T)", "3037(SNP:C->T)", "3267(SNP:C->T)", "5388(SNP:C->A)", "5986(SNP:C->T)", "6954(SNP:T->C)", "10969(SNP:C->T)", "11287(Deletion:GTCTGGTTTT->G)", "14408(SNP:C->T)", "14676(SNP:C->T)", "14818(SNP:C->T)", "15279(SNP:C->T)", "16176(SNP:T->C)", "20578(SNP:G->T)", "21764(Deletion:ATACATG->A)", "21990(Deletion:TTTA->T)", "23063(SNP:A->T)", "23271(SNP:C->A)", "23403(SNP:A->G)", "23604(SNP:C->A)", "23709(SNP:C->T)", "24506(SNP:T->G)", "24914(SNP:G->C)", "27972(SNP:C->T)", "28048(SNP:G->T)", "28111(SNP:A->G)", "28270(Deletion:TA->T)", "28280(SNP:G->C)", "28281(SNP:A->T)", "28282(SNP:T->A)", "28881(SNP:G->A)", "28882(SNP:G->A)", "28883(SNP:G->C)", "28977(SNP:C->T)", "29245(SNP:C->T)", "29654(SNP:G->A)"],
+			"radius":	1,
+			"pieChart":	[{
+					"color":	"United Kingdom",
+					"percent":	100
+				}],
+			"Virus":	[{
+					"acc":	"EPI_ISL_866591",
+					"date":	"2021-01-02",
+					"loci":	"United Kingdom",
+					"name":	"hCoV-19/England/NORW-2233EE/2021"
+				}]
+		}, {
+			"date":	"2020-12-29",
+			"id":	"Node_1",
+			"jump":	-1,
+			"SNPs":	["1(Deletion:AATTAAAGGTTTATACCTTCCCAGGTAACAAACCAACCAACTTTCGATCTCTTGT->-)", "241(SNP:C->T)", "398(SNP:C->T)", "913(SNP:C->T)", "3037(SNP:C->T)", "3267(SNP:C->T)", "5388(SNP:C->A)", "5986(SNP:C->T)", "6954(SNP:T->C)", "11287(Deletion:GTCTGGTTTT->G)", "14408(SNP:C->T)", "14676(SNP:C->T)", "15279(SNP:C->T)", "16176(SNP:T->C)", "17615(SNP:A->G)", "21764(Deletion:ATACATG->A)", "21990(Deletion:TTTA->T)", "21999(SNP:A->G)", "23063(SNP:A->T)", "23271(SNP:C->A)", "23403(SNP:A->G)", "23604(SNP:C->A)", "23709(SNP:C->T)", "24506(SNP:T->G)", "24914(SNP:G->C)", "27972(SNP:C->T)", "28048(SNP:G->T)", "28111(SNP:A->G)", "28270(Deletion:TA->T)", "28280(SNP:G->C)", "28281(SNP:A->T)", "28282(SNP:T->A)", "28881(SNP:G->A)", "28882(SNP:G->A)", "28883(SNP:G->C)", "28914(SNP:G->A)", "28977(SNP:C->T)", "29077(SNP:C->T)", "29836(Deletion:CCCATGTGATTTTAATAGCTTCTTAGGAGAATGACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA->C)"],
+			"radius":	1,
+			"pieChart":	[{
+					"color":	"United Kingdom",
+					"percent":	100
+				}],
+			"Virus":	[{
+					"acc":	"EPI_ISL_924523",
+					"date":	"2020-12-29",
+					"loci":	"United Kingdom",
+					"name":	"hCoV-19/England/TFCI-2700601/2020"
+				}]
+		}, {
+			"date":	"2021-01-08",
+			"id":	"Node_2",
+			"jump":	-1,
+			"SNPs":	["1(Deletion:AATTAAAGGTTTATACC->-)", "241(SNP:C->T)", "913(SNP:C->T)", "3037(SNP:C->T)", "3267(SNP:C->T)", "4573(SNP:C->T)", "5388(SNP:C->A)", "5986(SNP:C->T)", "6954(SNP:T->C)", "11287(Deletion:GTCTGGTTTT->G)", "14408(SNP:C->T)", "14676(SNP:C->T)", "15279(SNP:C->T)", "16176(SNP:T->C)", "17615(SNP:A->G)", "18186(SNP:G->T)", "21764(Deletion:ATACATG->A)", "21990(Deletion:TTTA->T)", "23063(SNP:A->T)", "23271(SNP:C->A)", "23403(SNP:A->G)", "23604(SNP:C->A)", "23709(SNP:C->T)", "24506(SNP:T->G)", "24914(SNP:G->C)", "27972(SNP:C->T)", "28048(SNP:G->T)", "28111(SNP:A->G)", "28270(Deletion:TA->T)", "28280(SNP:G->C)", "28281(SNP:A->T)", "28282(SNP:T->A)", "28881(SNP:G->A)", "28882(SNP:G->A)", "28883(SNP:G->C)", "28928(SNP:C->A)", "28977(SNP:C->T)", "29836(Deletion:CCCATGTGATTTTAATAGCTTCTTAGGAGAATGACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA->C)"],
+			"radius":	1,
+			"pieChart":	[{
+					"color":	"United Kingdom",
+					"percent":	100
+				}],
+			"Virus":	[{
+					"acc":	"EPI_ISL_866688",
+					"date":	"2021-01-08",
+					"loci":	"United Kingdom",
+					"name":	"hCoV-19/England/NORW-2256A7/2021"
+				}]
+		}, {
+			"date":	"2020-12-11",
+			"id":	"Node_3",
+			"jump":	-1,
+			"SNPs":	["241(SNP:C->T)", "913(SNP:C->T)", "3037(SNP:C->T)", "3267(SNP:C->T)", "5388(SNP:C->A)", "5986(SNP:C->T)", "6954(SNP:T->C)", "8603(SNP:T->C)", "9316(SNP:T->C)", "10828(SNP:A->G)", "11287(Deletion:GTCTGGTTTT->G)", "14408(SNP:C->T)", "14676(SNP:C->T)", "15279(SNP:C->T)", "16176(SNP:T->C)", "17615(SNP:A->G)", "18788(SNP:C->T)", "21764(Deletion:ATACATG->A)", "21990(Deletion:TTTA->T)", "23063(SNP:A->T)", "23271(SNP:C->A)", "23403(SNP:A->G)", "23604(SNP:C->A)", "23709(SNP:C->T)", "24506(SNP:T->G)", "24914(SNP:G->C)", "27972(SNP:C->T)", "28048(SNP:G->T)", "28111(SNP:A->G)", "28270(Deletion:TA->T)", "28280(SNP:G->C)", "28281(SNP:A->T)", "28282(SNP:T->A)", "28881(SNP:G->A)", "28882(SNP:G->A)", "28883(SNP:G->C)", "28977(SNP:C->T)"],
+			"radius":	1,
+			"pieChart":	[{
+					"color":	"United Kingdom",
+					"percent":	100
+				}],
+			"Virus":	[{
+					"acc":	"EPI_ISL_769790",
+					"date":	"2020-12-11",
+					"loci":	"United Kingdom",
+					"name":	"COG-UK/MILK-C51480"
+				}]
+		}, {
+			"date":	"2021-01-02",
+			"id":	"Node_4",
+			"jump":	-1,
+			"SNPs":	["241(SNP:C->T)", "913(SNP:C->T)", "2453(SNP:C->T)", "3037(SNP:C->T)", "3267(SNP:C->T)", "5388(SNP:C->A)", "5986(SNP:C->T)", "6954(SNP:T->C)", "10594(SNP:C->T)", "11287(Deletion:GTCTGGTTTT->G)", "14408(SNP:C->T)", "14676(SNP:C->T)", "15279(SNP:C->T)", "16176(SNP:T->C)", "21764(Deletion:ATACATG->A)", "21990(Deletion:TTTA->T)", "22336(SNP:G->T)", "23063(SNP:A->T)", "23271(SNP:C->A)", "23277(SNP:C->T)", "23403(SNP:A->G)", "23604(SNP:C->A)", "23709(SNP:C->T)", "24506(SNP:T->G)", "24914(SNP:G->C)", "27972(SNP:C->T)", "28048(SNP:G->T)", "28111(SNP:A->G)", "28270(Deletion:TA->T)", "28280(SNP:G->C)", "28281(SNP:A->T)", "28282(SNP:T->A)", "28881(SNP:G->A)", "28882(SNP:G->A)", "28883(SNP:G->A)", "28977(SNP:C->T)"],
+			"radius":	1,
+			"pieChart":	[{
+					"color":	"United Kingdom",
+					"percent":	100
+				}],
+			"Virus":	[{
+					"acc":	"EPI_ISL_820793",
+					"date":	"2021-01-02",
+					"loci":	"United Kingdom",
+					"name":	"COG-UK/MILK-EB4771"
+				}]
+		}, {
+			"date":	"2020-12-16",
+			"id":	"Node_5",
+			"jump":	-1,
+			"SNPs":	["241(SNP:C->T)", "913(SNP:C->T)", "3037(SNP:C->T)", "3267(SNP:C->T)", "4255(SNP:G->A)", "5388(SNP:C->A)", "5986(SNP:C->T)", "6954(SNP:T->C)", "11287(Deletion:GTCTGGTTTT->G)", "11507(SNP:G->A)", "14408(SNP:C->T)", "14676(SNP:C->T)", "15279(SNP:C->T)", "16176(SNP:T->C)", "17502(SNP:C->T)", "21764(Deletion:ATACATG->A)", "21990(Deletion:TTTA->T)", "23063(SNP:A->T)", "23271(SNP:C->A)", "23403(SNP:A->G)", "23604(SNP:C->A)", "23709(SNP:C->T)", "24506(SNP:T->G)", "24914(SNP:G->C)", "27972(SNP:C->T)", "28048(SNP:G->T)", "28111(SNP:A->G)", "28270(Deletion:TA->T)", "28280(SNP:G->C)", "28281(SNP:A->T)", "28282(SNP:T->A)", "28881(SNP:G->A)", "28882(SNP:G->A)", "28883(SNP:G->C)", "28977(SNP:C->T)"],
+			"radius":	1,
+			"pieChart":	[{
+					"color":	"United Kingdom",
+					"percent":	100
+				}],
+			"Virus":	[{
+					"acc":	"EPI_ISL_777176",
+					"date":	"2020-12-16",
+					"loci":	"United Kingdom",
+					"name":	"COG-UK/QEUH-C939FC"
+				}]
+		}, {
+			"date":	"2020-12-26",
+			"id":	"Node_6",
+			"jump":	-1,
+			"SNPs":	["241(SNP:C->T)", "913(SNP:C->T)", "3037(SNP:C->T)", "3177(SNP:C->T)", "3267(SNP:C->T)", "5388(SNP:C->A)", "5986(SNP:C->T)", "6954(SNP:T->C)", "10824(SNP:C->T)", "11287(Deletion:GTCTGGTTTT->G)", "14408(SNP:C->T)", "14464(SNP:G->A)", "14676(SNP:C->T)", "15279(SNP:C->T)", "16176(SNP:T->C)", "21764(Deletion:ATACATG->A)", "21990(Deletion:TTTA->T)", "23063(SNP:A->T)", "23271(SNP:C->A)", "23403(SNP:A->G)", "23604(SNP:C->A)", "23709(SNP:C->T)", "24506(SNP:T->G)", "24914(SNP:G->C)", "27972(SNP:C->T)", "28048(SNP:G->T)", "28111(SNP:A->G)", "28270(Deletion:TA->T)", "28280(SNP:G->C)", "28281(SNP:A->T)", "28282(SNP:T->A)", "28881(SNP:G->A)", "28882(SNP:G->A)", "28883(SNP:G->C)", "28977(SNP:C->T)"],
+			"radius":	1,
+			"pieChart":	[{
+					"color":	"United Kingdom",
+					"percent":	100
+				}],
+			"Virus":	[{
+					"acc":	"EPI_ISL_798429",
+					"date":	"2020-12-26",
+					"loci":	"United Kingdom",
+					"name":	"COG-UK/MILK-D741F8"
+				}]
+		}, {
+			"date":	"2020-12-17",
+			"id":	"Node_7",
+			"jump":	-1,
+			"SNPs":	["241(SNP:C->T)", "913(SNP:C->T)", "3037(SNP:C->T)", "3267(SNP:C->T)", "5388(SNP:C->A)", "5986(SNP:C->T)", "6954(SNP:T->C)", "11287(Deletion:GTCTGGTTTT->G)", "12970(SNP:C->T)", "14408(SNP:C->T)", "14676(SNP:C->T)", "15279(SNP:C->T)", "16176(SNP:T->C)", "21764(Deletion:ATACATG->A)", "21990(Deletion:TTTA->T)", "23063(SNP:A->T)", "23271(SNP:C->A)", "23403(SNP:A->G)", "23604(SNP:C->A)", "23709(SNP:C->T)", "24506(SNP:T->G)", "24914(SNP:G->C)", "27750(SNP:G->T)", "27972(SNP:C->T)", "28048(SNP:G->T)", "28111(SNP:A->G)", "28270(Deletion:TA->T)", "28280(SNP:G->C)", "28281(SNP:A->T)", "28282(SNP:T->A)", "28881(SNP:G->A)", "28882(SNP:G->A)", "28883(SNP:G->C)", "28977(SNP:C->T)"],
+			"radius":	1,
+			"pieChart":	[{
+					"color":	"United Kingdom",
+					"percent":	100
+				}],
+			"Virus":	[{
+					"acc":	"EPI_ISL_777398",
+					"date":	"2020-12-17",
+					"loci":	"United Kingdom",
+					"name":	"COG-UK/CAMC-C98D73"
+				}]
+		}, {
+			"date":	"2020-12-27",
+			"id":	"Node_8",
+			"jump":	-1,
+			"SNPs":	["241(SNP:C->T)", "913(SNP:C->T)", "3037(SNP:C->T)", "3267(SNP:C->T)", "5388(SNP:C->A)", "5986(SNP:C->T)", "6954(SNP:T->C)", "11287(Deletion:GTCTGGTTTT->G)", "14408(SNP:C->T)", "14676(SNP:C->T)", "15279(SNP:C->T)", "16176(SNP:T->C)", "21764(Deletion:ATACATG->A)", "21990(Deletion:TTTA->T)", "23063(SNP:A->T)", "23271(SNP:C->A)", "23403(SNP:A->G)", "23604(SNP:C->A)", "23709(SNP:C->T)", "24506(SNP:T->G)", "24914(SNP:G->C)", "27972(SNP:C->T)", "28048(SNP:G->T)", "28111(SNP:A->G)", "28270(Deletion:TA->T)", "28280(SNP:G->C)", "28281(SNP:A->T)", "28282(SNP:T->A)", "28881(SNP:G->A)", "28882(SNP:G->A)", "28883(SNP:G->C)", "28977(SNP:C->T)", "29468(SNP:G->A)"],
+			"radius":	1,
+			"pieChart":	[{
+					"color":	"United Kingdom",
+					"percent":	100
+				}],
+			"Virus":	[{
+					"acc":	"EPI_ISL_799396",
+					"date":	"2020-12-27",
+					"loci":	"United Kingdom",
+					"name":	"COG-UK/QEUH-D12AA6"
+				}]
+		}, {
+			"date":	"2020-11-18",
+			"id":	"Node_9",
+			"jump":	-1,
+			"SNPs":	["1(Deletion:AATTAAAGGTTTATACCTTCCCAGGTAACAAACCAACCAACTTTCGATCTCTTGT->-)", "241(SNP:C->T)", "1059(SNP:C->T)", "1926(SNP:C->T)", "1942(SNP:G->T)", "3037(SNP:C->T)", "6982(SNP:C->T)", "8083(SNP:G->A)", "9085(SNP:A->G)", "10319(SNP:C->T)", "13176(SNP:C->T)", "14408(SNP:C->T)", "14805(SNP:C->T)", "18424(SNP:A->G)", "20930(SNP:C->T)", "21304(SNP:C->T)", "23403(SNP:A->G)", "23593(SNP:G->T)", "24921(SNP:C->T)", "25563(SNP:G->T)", "25907(SNP:G->T)", "27964(SNP:C->T)", "28251(Indel:T->CTG)", "28253(SNP:C->T)", "28254(SNP:A->C)", "28472(SNP:C->T)", "28869(SNP:C->T)", "29402(SNP:G->T)", "29836(Deletion:CCCATGTGATTTTAATAGCTTCTTAGGAGAATGACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA->C)"],
+			"radius":	1,
+			"pieChart":	[{
+					"color":	"United States",
+					"percent":	100
+				}],
+			"Virus":	[{
+					"acc":	"EPI_ISL_728553",
+					"date":	"2020-11-18",
+					"loci":	"United States",
+					"name":	"hCoV-19/USA/WI-UW-2272/2020"
+				}]
+		}, {
+			"date":	"2020-12-23",
+			"id":	"Node_10",
+			"jump":	-1,
+			"SNPs":	["241(SNP:C->T)", "3037(SNP:C->T)", "3347(Deletion:TTTA->T)", "7767(SNP:T->C)", "8047(SNP:C->T)", "9360(SNP:C->T)", "11036(SNP:C->T)", "12988(SNP:G->T)", "14408(SNP:C->T)", "15598(SNP:G->A)", "16887(SNP:C->T)", "17104(SNP:C->T)", "17550(SNP:C->T)", "18028(SNP:G->T)", "20268(SNP:A->G)", "20992(SNP:A->G)", "21764(Deletion:ATACATG->A)", "21777(SNP:G->A)", "22879(SNP:C->A)", "23403(SNP:A->G)", "24751(SNP:G->T)", "24910(SNP:T->C)", "26972(SNP:T->C)", "27800(SNP:C->A)", "28899(SNP:G->T)", "29734(SNP:G->C)", "29773(SNP:G->T)"],
+			"radius":	1,
+			"pieChart":	[{
+					"color":	"Sweden",
+					"percent":	100
+				}],
+			"Virus":	[{
+					"acc":	"EPI_ISL_788991",
+					"date":	"2020-12-23",
+					"loci":	"Sweden",
+					"name":	"hCoV-19/Sweden/20-09993/2020"
+				}]
+		}, {
+			"date":	"2020-12-16",
+			"id":	"Node_11",
+			"jump":	-1,
+			"SNPs":	["1(Deletion:AATTAAAGGTTTATACCTTCCCAGGTAAC->-)", "241(SNP:C->T)", "3037(SNP:C->T)", "3411(SNP:C->T)", "11218(SNP:T->C)", "11365(SNP:G->T)", "11410(SNP:G->T)", "14408(SNP:C->T)", "22879(SNP:C->G)", "23403(SNP:A->G)", "23929(SNP:C->T)", "24928(SNP:G->T)", "25976(SNP:C->T)", "26104(SNP:G->T)", "26894(SNP:C->T)", "27889(SNP:C->T)", "28251(SNP:T->G)", "28253(SNP:C->T)", "28254(SNP:A->C)", "28881(SNP:G->A)", "28882(SNP:G->A)", "28883(SNP:G->C)", "28985(SNP:G->C)"],
+			"radius":	1,
+			"pieChart":	[{
+					"color":	"Nigeria",
+					"percent":	100
+				}],
+			"Virus":	[{
+					"acc":	"EPI_ISL_906296",
+					"date":	"2020-12-16",
+					"loci":	"Nigeria",
+					"name":	"hCoV-19/Nigeria/CV603/2020"
+				}]
+		}, {
+			"date":	"2021-01-18",
+			"id":	"Node_12",
+			"jump":	-1,
+			"SNPs":	["1(Deletion:AATTAAAGGTTTATACCTTCCCAGGTAACAAACCAACCAACTTTCGATCTCTTGT->-)", "222(SNP:C->T)", "241(SNP:C->T)", "445(SNP:T->C)", "761(SNP:A->G)", "3037(SNP:C->T)", "4486(SNP:G->T)", "4755(SNP:C->T)", "6286(SNP:C->T)", "14408(SNP:C->T)", "20661(SNP:T->C)", "21255(SNP:G->C)", "22227(SNP:C->T)", "23403(SNP:A->G)", "26801(SNP:C->G)", "26966(SNP:T->C)", "28370(SNP:A->G)", "28932(SNP:C->T)", "29366(SNP:C->T)", "29386(SNP:C->T)", "29402(SNP:G->T)", "29645(SNP:G->T)", "29836(Deletion:CCCATGTGATTTTAATAGCTTCTTAGGAGAATGACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA->C)"],
+			"radius":	1,
+			"pieChart":	[{
+					"color":	"Denmark",
+					"percent":	100
+				}],
+			"Virus":	[{
+					"acc":	"EPI_ISL_928219",
+					"date":	"2021-01-18",
+					"loci":	"Denmark",
+					"name":	"hCoV-19/Denmark/DCGC-37078/2021"
+				}]
+		}, {
+			"date":	"2020-11-23",
+			"id":	"Node_13",
+			"jump":	-1,
+			"SNPs":	["1(Deletion:AATTAAAGGTTTATACCTTCCCAGGTAACAAACCAACCAACTTTCGATCTCTTGT->-)", "222(SNP:C->T)", "241(SNP:C->T)", "445(SNP:T->C)", "761(SNP:A->G)", "3037(SNP:C->T)", "6286(SNP:C->T)", "10860(SNP:A->G)", "14408(SNP:C->T)", "20661(SNP:T->C)", "21255(SNP:G->C)", "22227(SNP:C->T)", "23403(SNP:A->G)", "26801(SNP:C->G)", "26966(SNP:T->C)", "28370(SNP:A->G)", "28932(SNP:C->T)", "29366(SNP:C->T)", "29386(SNP:C->T)", "29402(SNP:G->T)", "29645(SNP:G->T)", "29836(Deletion:CCCATGTGATTTTAATAGCTTCTTAGGAGAATGACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA->C)"],
+			"radius":	1,
+			"pieChart":	[{
+					"color":	"Denmark",
+					"percent":	100
+				}],
+			"Virus":	[{
+					"acc":	"EPI_ISL_713786",
+					"date":	"2020-11-23",
+					"loci":	"Denmark",
+					"name":	"hCoV-19/Denmark/DCGC-15367/2020"
+				}]
+		}, {
+			"date":	"2020-12-14",
+			"id":	"Node_14",
+			"jump":	-1,
+			"SNPs":	["1(Deletion:AATTAAAGGTTTATACCTTCCCAGGTAACAAACCAACCAACTTTCGATCTCTTGT->-)", "241(SNP:C->T)", "3037(SNP:C->T)", "5950(SNP:G->T)", "6080(SNP:G->A)", "8041(SNP:T->C)", "10265(SNP:G->A)", "11299(SNP:G->A)", "11758(SNP:C->T)", "14408(SNP:C->T)", "15960(SNP:C->T)", "15972(SNP:A->G)", "19718(SNP:C->T)", "23403(SNP:A->G)", "23593(SNP:G->T)", "27213(SNP:C->T)", "28759(SNP:T->C)", "28881(SNP:G->A)", "28882(SNP:G->A)", "28883(SNP:G->C)", "29474(SNP:G->T)", "29836(Deletion:CCCATGTGATTTTAATAGCTTCTTAGGAGAATGACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA->C)"],
+			"radius":	1,
+			"pieChart":	[{
+					"color":	"Denmark",
+					"percent":	100
+				}],
+			"Virus":	[{
+					"acc":	"EPI_ISL_751076",
+					"date":	"2020-12-14",
+					"loci":	"Denmark",
+					"name":	"hCoV-19/Denmark/DCGC-17571/2020"
+				}]
+		}, {
+			"date":	"2020-12-14",
+			"id":	"Node_15",
+			"jump":	-1,
+			"SNPs":	["1(Deletion:AATTAAAGGTTTATACCTTCCCAGGTAACAAACCAACCAACTTTCGATCTCTTGT->-)", "222(SNP:C->T)", "241(SNP:C->T)", "445(SNP:T->C)", "3037(SNP:C->T)", "4917(SNP:T->C)", "6286(SNP:C->T)", "9409(SNP:A->G)", "13197(SNP:C->T)", "14408(SNP:C->T)", "20661(SNP:T->C)", "21255(SNP:G->C)", "22227(SNP:C->T)", "23403(SNP:A->G)", "24814(SNP:T->C)", "25757(SNP:G->T)", "26801(SNP:C->G)", "28932(SNP:C->T)", "29366(SNP:C->T)", "29386(SNP:C->T)", "29645(SNP:G->T)", "29836(Deletion:CCCATGTGATTTTAATAGCTTCTTAGGAGAATGACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA->C)"],
+			"radius":	1,
+			"pieChart":	[{
+					"color":	"Denmark",
+					"percent":	100
+				}],
+			"Virus":	[{
+					"acc":	"EPI_ISL_757631",
+					"date":	"2020-12-14",
+					"loci":	"Denmark",
+					"name":	"hCoV-19/Denmark/DCGC-22552/2020"
+				}]
+		}, {
+			"date":	"2020-12-30",
+			"id":	"Node_16",
+			"jump":	-1,
+			"SNPs":	["1(Deletion:AATTAAAGGTTTATACCTTCCCAGGTAACAAACCAACCAACTTTCGATCTCTTGT->-)", "241(SNP:C->T)", "806(SNP:G->A)", "1592(SNP:T->C)", "2584(SNP:T->A)", "3037(SNP:C->T)", "4270(SNP:T->C)", "5140(SNP:C->A)", "11083(SNP:G->T)", "14408(SNP:C->T)", "14793(SNP:C->A)", "19763(SNP:C->T)", "20268(SNP:A->G)", "23403(SNP:A->G)", "23587(SNP:G->C)", "24076(SNP:T->C)", "25624(SNP:C->T)", "25844(SNP:C->T)", "28130(SNP:T->C)", "28854(SNP:C->T)", "29543(SNP:G->T)", "29836(Deletion:CCCATGTGATTTTAATAGCTTCTTAGGAGAATGACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA->C)"],
+			"radius":	1,
+			"pieChart":	[{
+					"color":	"United States",
+					"percent":	100
+				}],
+			"Virus":	[{
+					"acc":	"EPI_ISL_857246",
+					"date":	"2020-12-30",
+					"loci":	"United States",
+					"name":	"hCoV-19/USA/NY-NYCPHL-002029/2020"
+				}]
+		}, {
+			"date":	"2021-01-10",
+			"id":	"Node_17",
+			"jump":	-1,
+			"SNPs":	["204(SNP:G->T)", "241(SNP:C->T)", "445(SNP:T->C)", "3037(SNP:C->T)", "3405(SNP:A->G)", "4111(SNP:T->C)", "6286(SNP:C->T)", "11083(SNP:G->T)", "11575(SNP:C->T)", "12733(SNP:C->T)", "14408(SNP:C->T)", "21255(SNP:G->C)", "21614(SNP:C->T)", "22227(SNP:C->T)", "23403(SNP:A->G)", "23854(SNP:C->T)", "24912(SNP:C->T)", "25202(SNP:T->K)", "26801(SNP:C->G)", "27944(SNP:C->T)", "28932(SNP:C->T)", "29645(SNP:G->T)"],
+			"radius":	1,
+			"pieChart":	[{
+					"color":	"United Kingdom",
+					"percent":	100
+				}],
+			"Virus":	[{
+					"acc":	"EPI_ISL_882260",
+					"date":	"2021-01-10",
+					"loci":	"United Kingdom",
+					"name":	"COG-UK/ALDP-FAF75A"
+				}]
+		}, {
+			"date":	"2020-08-13",
+			"id":	"Node_18",
+			"jump":	-1,
+			"SNPs":	["1(Deletion:AATTAAAGGTTTATACCTTCCCAGGTAACAAACCAACCAACTTTCGATCTCTTGTA->-)", "241(SNP:C->T)", "1059(SNP:C->T)", "1927(SNP:T->C)", "3037(SNP:C->T)", "4882(SNP:T->C)", "6512(Deletion:AGTT->A)", "10319(SNP:C->T)", "14408(SNP:C->T)", "17266(SNP:G->A)", "18424(SNP:A->G)", "21304(SNP:C->T)", "22255(SNP:A->T)", "23403(SNP:A->G)", "25563(SNP:G->T)", "25907(SNP:G->T)", "26208(SNP:C->T)", "27964(SNP:C->T)", "28472(SNP:C->T)", "28869(SNP:C->T)", "29836(Deletion:CCCATGTGATTTTAATAGCTTCTTAGGAGAATGACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA->C)"],
+			"radius":	1,
+			"pieChart":	[{
+					"color":	"United States",
+					"percent":	100
+				}],
+			"Virus":	[{
+					"acc":	"EPI_ISL_745668",
+					"date":	"2020-08-13",
+					"loci":	"United States",
+					"name":	"hCoV-19/USA/UT-UPHL-2012831200/2020"
+				}]
+		}, {
+			"date":	"2020-09-23",
+			"id":	"Node_19",
+			"jump":	-1,
+			"SNPs":	["1(Deletion:AATTAAAGGTTTA->-)", "241(SNP:C->T)", "3037(SNP:C->T)", "7767(SNP:T->C)", "8047(SNP:C->T)", "12988(SNP:G->T)", "14408(SNP:C->T)", "15598(SNP:G->A)", "17104(SNP:C->T)", "18028(SNP:G->T)", "20268(SNP:A->G)", "21764(Deletion:ATACATG->A)", "22879(SNP:C->A)", "23403(SNP:A->G)", "24910(SNP:T->C)", "25494(SNP:G->T)", "26972(SNP:T->C)", "27800(SNP:C->M)", "28817(SNP:G->T)", "29734(SNP:G->C)", "29901(Deletion:AAA->A)"],
+			"radius":	1,
+			"pieChart":	[{
+					"color":	"United Kingdom",
+					"percent":	100
+				}],
+			"Virus":	[{
+					"acc":	"EPI_ISL_572880",
+					"date":	"2020-09-23",
+					"loci":	"United Kingdom",
+					"name":	"hCoV-19/Wales/PHWC-16C4D8/2020"
+				}]
+		}, {
+			"date":	"2020-11-04",
+			"id":	"Node_20",
+			"jump":	-1,
+			"SNPs":	["204(SNP:G->T)", "241(SNP:C->T)", "445(SNP:T->C)", "1758(SNP:C->T)", "3037(SNP:C->T)", "5575(SNP:C->T)", "6286(SNP:C->T)", "14408(SNP:C->T)", "15753(SNP:A->G)", "19655(SNP:A->G)", "21255(SNP:G->C)", "21372(SNP:G->T)", "21614(SNP:C->T)", "22227(SNP:C->T)", "23403(SNP:A->G)", "24365(SNP:C->G)", "26801(SNP:C->G)", "27944(SNP:C->T)", "28307(SNP:G->A)", "28932(SNP:C->T)", "29645(SNP:G->T)"],
+			"radius":	1,
+			"pieChart":	[{
+					"color":	"United Kingdom",
+					"percent":	100
+				}],
+			"Virus":	[{
+					"acc":	"EPI_ISL_646184",
+					"date":	"2020-11-04",
+					"loci":	"United Kingdom",
+					"name":	"COG-UK/QEUH-B3196A"
+				}]
+		}, {
+			"date":	"2020-12-21",
+			"id":	"Node_21",
+			"jump":	-1,
+			"SNPs":	["1(Deletion:AATTAAAGGTTTATACCTTCCCAGGTAACAAACCAACCAACTTTCGATCTCTTGT->-)", "222(SNP:C->T)", "241(SNP:C->T)", "445(SNP:T->C)", "3037(SNP:C->T)", "6286(SNP:C->T)", "6948(SNP:A->G)", "14408(SNP:C->T)", "19955(SNP:C->T)", "20661(SNP:T->C)", "21255(SNP:G->C)", "22227(SNP:C->T)", "23403(SNP:A->G)", "24814(SNP:T->C)", "25757(SNP:G->T)", "26801(SNP:C->G)", "28932(SNP:C->T)", "29366(SNP:C->T)", "29386(SNP:C->T)", "29645(SNP:G->T)", "29836(Deletion:CCCATGTGATTTTAATAGCTTCTTAGGAGAATGACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA->C)"],
+			"radius":	1,
+			"pieChart":	[{
+					"color":	"Denmark",
+					"percent":	100
+				}],
+			"Virus":	[{
+					"acc":	"EPI_ISL_815890",
+					"date":	"2020-12-21",
+					"loci":	"Denmark",
+					"name":	"hCoV-19/Denmark/DCGC-27782/2020"
+				}]
+		}, {
+			"date":	"2020-07-10",
+			"id":	"Node_22",
+			"jump":	-1,
+			"SNPs":	["1(Deletion:AATTAAAGGTTTATACCTTCCCAGGTAACAAACCAA->-)", "241(SNP:C->T)", "313(SNP:C->T)", "3037(SNP:C->T)", "4346(SNP:T->C)", "9286(SNP:C->T)", "10252(SNP:C->T)", "10376(SNP:C->T)", "14408(SNP:C->T)", "14708(SNP:C->T)", "23403(SNP:A->G)", "25513(SNP:C->T)", "25785(SNP:G->T)", "28725(SNP:C->T)", "28881(SNP:G->A)", "28882(SNP:G->A)", "28883(SNP:G->C)", "29692(SNP:G->T)", "29865(SNP:A->G)", "29873(Deletion:AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA->A)"],
+			"radius":	1,
+			"pieChart":	[{
+					"color":	"Japan",
+					"percent":	100
+				}],
+			"Virus":	[{
+					"acc":	"EPI_ISL_687773",
+					"date":	"2020-07-10",
+					"loci":	"Japan",
+					"name":	"hCoV-19/Japan/PG-6662/2020"
+				}]
+		}, {
+			"date":	"2020-09-03",
+			"id":	"Node_23",
+			"jump":	-1,
+			"SNPs":	["1(Deletion:AATTAAAGGTTTATACCTTCCCAGGTAACAAACCAACCA->-)", "241(SNP:C->T)", "1163(SNP:A->T)", "3037(SNP:C->T)", "5144(SNP:C->T)", "7328(SNP:G->T)", "7540(SNP:T->C)", "14408(SNP:C->T)", "16172(SNP:A->G)", "16647(SNP:G->T)", "18555(SNP:C->T)", "21369(SNP:T->C)", "22992(SNP:G->A)", "23401(SNP:G->A)", "23403(SNP:A->G)", "28009(SNP:T->C)", "28881(SNP:G->A)", "28882(SNP:G->A)", "28883(SNP:G->C)", "29851(Deletion:TAGCTTCTTAGGAGAATGACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA->T)"],
+			"radius":	1,
+			"pieChart":	[{
+					"color":	"Australia",
+					"percent":	100
+				}],
+			"Virus":	[{
+					"acc":	"EPI_ISL_563060",
+					"date":	"2020-09-03",
+					"loci":	"Australia",
+					"name":	"SARS-CoV-2/human/AUS/VIC10736/2020"
+				}]
+		}, {
+			"date":	"2020-09-30",
+			"id":	"Node_24",
+			"jump":	-1,
+			"SNPs":	["1(Deletion:AATTAAAGGTTTATACCTTCCCAGGTAACAAACCAACCAACTTTCGATCTCTTGT->-)", "241(SNP:C->T)", "445(SNP:T->C)", "3037(SNP:C->T)", "6286(SNP:C->T)", "12119(SNP:C->T)", "14408(SNP:C->T)", "17332(SNP:A->G)", "18657(SNP:C->T)", "20320(SNP:C->T)", "21222(SNP:A->T)", "21255(SNP:G->C)", "22227(SNP:C->T)", "23403(SNP:A->G)", "25889(SNP:C->T)", "26801(SNP:C->G)", "27944(SNP:C->T)", "28932(SNP:C->T)", "29645(SNP:G->T)", "29829(Deletion:TGCTATCCCCATGTGATTTTAATAGCTTCTTAGGAGAATGACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA->T)"],
+			"radius":	1,
+			"pieChart":	[{
+					"color":	"Netherlands",
+					"percent":	100
+				}],
+			"Virus":	[{
+					"acc":	"EPI_ISL_722841",
+					"date":	"2020-09-30",
+					"loci":	"Netherlands",
+					"name":	"hCoV-19/Netherlands/NB-EMC-383/2020"
+				}]
+		}, {
+			"date":	"2020-11-01",
+			"id":	"Node_25",
+			"jump":	-1,
+			"SNPs":	["204(SNP:G->T)", "241(SNP:C->T)", "445(SNP:T->C)", "3037(SNP:C->T)", "6286(SNP:C->T)", "11533(SNP:A->G)", "14408(SNP:C->T)", "21255(SNP:G->C)", "21614(SNP:C->T)", "22227(SNP:C->T)", "23403(SNP:A->G)", "24334(SNP:C->T)", "26233(SNP:G->T)", "26424(SNP:T->C)", "26801(SNP:C->G)", "27670(SNP:G->T)", "27944(SNP:C->T)", "28932(SNP:C->T)", "29473(SNP:G->A)", "29645(SNP:G->T)"],
+			"radius":	1,
+			"pieChart":	[{
+					"color":	"United Kingdom",
+					"percent":	100
+				}],
+			"Virus":	[{
+					"acc":	"EPI_ISL_741398",
+					"date":	"2020-11-01",
+					"loci":	"United Kingdom",
+					"name":	"hCoV-19/England/MILK-B3DDF9/2020"
+				}]
+		}, {
+			"date":	"2020-11-04",
+			"id":	"Node_26",
+			"jump":	-1,
+			"SNPs":	["1(Deletion:AATTAAAGGTTTATACCTTCCCAGGTAACAAACCAACCAACTTTCGATCTCTTGT->-)", "241(SNP:C->T)", "1059(SNP:C->T)", "2286(SNP:G->A)", "3037(SNP:C->T)", "4197(SNP:A->G)", "7954(SNP:G->T)", "9388(SNP:G->A)", "10552(SNP:A->G)", "12391(SNP:T->C)", "14408(SNP:C->T)", "18788(SNP:C->T)", "19269(SNP:C->T)", "19872(SNP:G->T)", "23403(SNP:A->G)", "25563(SNP:G->T)", "26681(SNP:C->T)", "28715(SNP:A->T)", "29535(SNP:C->T)", "29836(Deletion:CCCATGTGATTTTAATAGCTTCTTAGGAGAATGACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA->C)"],
+			"radius":	1,
+			"pieChart":	[{
+					"color":	"United States",
+					"percent":	100
+				}],
+			"Virus":	[{
+					"acc":	"EPI_ISL_791382",
+					"date":	"2020-11-04",
+					"loci":	"United States",
+					"name":	"hCoV-19/USA/MD-HP12050/2020"
+				}]
+		}, {
+			"date":	"2020-11-16",
+			"id":	"Node_27",
+			"jump":	-1,
+			"SNPs":	["1(Deletion:AATTAAAGGTTTATACCTTCCCAGGTAACAAACCAACCAACTTTCGATCTCTTGT->-)", "241(SNP:C->T)", "445(SNP:T->C)", "3037(SNP:C->T)", "6286(SNP:C->T)", "8872(SNP:G->C)", "9130(SNP:G->T)", "14408(SNP:C->T)", "21255(SNP:G->C)", "22227(SNP:C->T)", "23403(SNP:A->G)", "25471(SNP:G->T)", "26801(SNP:C->G)", "26894(SNP:C->T)", "27944(SNP:C->T)", "27996(SNP:G->T)", "28932(SNP:C->T)", "29645(SNP:G->T)", "29741(SNP:C->T)", "29836(Deletion:CCCATGTGATTTTAATAGCTTCTTAGGAGAATGACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA->C)"],
+			"radius":	1,
+			"pieChart":	[{
+					"color":	"Denmark",
+					"percent":	100
+				}],
+			"Virus":	[{
+					"acc":	"EPI_ISL_668887",
+					"date":	"2020-11-16",
+					"loci":	"Denmark",
+					"name":	"hCoV-19/Denmark/DCGC-9283/2020"
+				}]
+		}, {
+			"date":	"2020-12-09",
+			"id":	"Node_28",
+			"jump":	-1,
+			"SNPs":	["1(Deletion:AATTAAAGGTTTATACCTTCCCAGGTAACAAACCAACCAACTTTCGATCTCTTGT->-)", "241(SNP:C->T)", "257(SNP:A->G)", "1288(SNP:C->T)", "3037(SNP:C->T)", "5230(SNP:G->T)", "7279(SNP:C->T)", "10747(SNP:C->T)", "13994(SNP:C->T)", "14408(SNP:C->T)", "14863(SNP:G->A)", "20178(SNP:C->T)", "21578(SNP:G->T)", "23403(SNP:A->G)", "25429(SNP:G->T)", "25916(SNP:C->T)", "25996(SNP:G->A)", "26319(SNP:A->G)", "28854(SNP:C->T)", "29836(Deletion:CCCATGTGATTTTAATAGCTTCTTAGGAGAATGACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA->C)"],
+			"radius":	1,
+			"pieChart":	[{
+					"color":	"Norway",
+					"percent":	100
+				}],
+			"Virus":	[{
+					"acc":	"EPI_ISL_796693",
+					"date":	"2020-12-09",
+					"loci":	"Norway",
+					"name":	"hCoV-19/Norway/6853/2020"
+				}]
+		}, {
+			"date":	"2020-12-14",
+			"id":	"Node_29",
+			"jump":	-1,
+			"SNPs":	["1(Deletion:AATTAAAGGTTTATACCTTCCCAGGTAACAAACCAACCAACTTTCGATCTCTTGT->-)", "204(SNP:G->T)", "241(SNP:C->T)", "445(SNP:T->C)", "3037(SNP:C->T)", "6040(SNP:C->T)", "6286(SNP:C->T)", "12121(SNP:A->T)", "14408(SNP:C->T)", "18060(SNP:C->T)", "21255(SNP:G->C)", "21614(SNP:C->T)", "22227(SNP:C->T)", "23403(SNP:A->G)", "26801(SNP:C->T)", "27870(SNP:G->T)", "27944(SNP:C->T)", "28932(SNP:C->T)", "29645(SNP:G->T)", "29836(Deletion:CCCATGTGATTTTAATAGCTTCTTAGGAGAATGACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA->C)"],
+			"radius":	1,
+			"pieChart":	[{
+					"color":	"Denmark",
+					"percent":	100
+				}],
+			"Virus":	[{
+					"acc":	"EPI_ISL_750303",
+					"date":	"2020-12-14",
+					"loci":	"Denmark",
+					"name":	"hCoV-19/Denmark/DCGC-16820/2020"
+				}]
+		}, {
+			"date":	"2020-09-10",
+			"id":	"Node_30",
+			"jump":	-1,
+			"SNPs":	["241(SNP:C->T)", "1163(SNP:A->T)", "3037(SNP:C->T)", "3256(SNP:T->C)", "5622(SNP:C->T)", "11083(SNP:G->T)", "14202(SNP:G->T)", "14408(SNP:C->T)", "19542(SNP:G->T)", "19718(SNP:C->T)", "22388(SNP:C->T)", "23403(SNP:A->G)", "26060(SNP:C->T)", "28881(SNP:G->A)", "28882(SNP:G->A)", "28883(SNP:G->C)", "29227(SNP:G->T)", "29466(SNP:C->T)", "29771(SNP:A->G)"],
+			"radius":	1,
+			"pieChart":	[{
+					"color":	"United Kingdom",
+					"percent":	100
+				}],
+			"Virus":	[{
+					"acc":	"EPI_ISL_567310",
+					"date":	"2020-09-10",
+					"loci":	"United Kingdom",
+					"name":	"COG-UK/QEUH-9C98D5"
+				}]
+		}, {
+			"date":	"2020-11-30",
+			"id":	"Node_31",
+			"jump":	-1,
+			"SNPs":	["1(Deletion:AATTAAAGGTTTATACCTTCCCAGGTAACAAACCAACCAACTTTCGATCTCTTGT->-)", "204(SNP:G->T)", "241(SNP:C->T)", "445(SNP:T->C)", "3037(SNP:C->T)", "3592(SNP:T->C)", "6027(SNP:C->T)", "6286(SNP:C->T)", "13517(SNP:C->T)", "14408(SNP:C->T)", "21255(SNP:G->C)", "22227(SNP:C->T)", "23403(SNP:A->G)", "24620(SNP:G->T)", "26801(SNP:C->G)", "27944(SNP:C->T)", "28932(SNP:C->T)", "29645(SNP:G->T)", "29836(Deletion:CCCATGTGATTTTAATAGCTTCTTAGGAGAATGACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA->C)"],
+			"radius":	1,
+			"pieChart":	[{
+					"color":	"Denmark",
+					"percent":	100
+				}],
+			"Virus":	[{
+					"acc":	"EPI_ISL_711764",
+					"date":	"2020-11-30",
+					"loci":	"Denmark",
+					"name":	"hCoV-19/Denmark/DCGC-14434/2020"
+				}]
+		}, {
+			"date":	"2020-12-18",
+			"id":	"Node_32",
+			"jump":	-1,
+			"SNPs":	["1(Deletion:AATTAAAGGTTTATACCTTCCCAGGTAACAAACCAACCAACTTTCGATCTCTTGT->-)", "204(SNP:G->T)", "241(SNP:C->T)", "445(SNP:T->C)", "3037(SNP:C->T)", "6286(SNP:C->T)", "11396(SNP:C->T)", "14408(SNP:C->T)", "15924(SNP:C->T)", "21255(SNP:G->C)", "21614(SNP:C->T)", "22227(SNP:C->T)", "22329(SNP:C->T)", "23403(SNP:A->G)", "26801(SNP:C->G)", "27944(SNP:C->T)", "28932(SNP:C->T)", "29645(SNP:G->T)", "29836(Deletion:CCCATGTGATTTTAATAGCTTCTTAGGAGAATGACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA->C)"],
+			"radius":	1,
+			"pieChart":	[{
+					"color":	"United Kingdom",
+					"percent":	100
+				}],
+			"Virus":	[{
+					"acc":	"EPI_ISL_918833",
+					"date":	"2020-12-18",
+					"loci":	"United Kingdom",
+					"name":	"hCoV-19/England/BIRM-6EC57/2020"
+				}]
+		}, {
+			"date":	"2020-12-28",
+			"id":	"Node_33",
+			"jump":	-1,
+			"SNPs":	["1(Deletion:AATTAAAGGTTTATACCTTCCCAGGTAACAAACCAACCAACTTTCGATCTCTTGT->-)", "222(SNP:C->T)", "241(SNP:C->T)", "445(SNP:T->C)", "3037(SNP:C->T)", "6286(SNP:C->T)", "14408(SNP:C->T)", "20661(SNP:T->C)", "21255(SNP:G->C)", "22227(SNP:C->T)", "23403(SNP:A->G)", "24814(SNP:T->C)", "25757(SNP:G->T)", "26801(SNP:C->G)", "28932(SNP:C->T)", "29366(SNP:C->T)", "29386(SNP:C->T)", "29645(SNP:G->T)", "29836(Deletion:CCCATGTGATTTTAATAGCTTCTTAGGAGAATGACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA->C)"],
+			"radius":	1,
+			"pieChart":	[{
+					"color":	"Denmark",
+					"percent":	100
+				}],
+			"Virus":	[{
+					"acc":	"EPI_ISL_843779",
+					"date":	"2020-12-28",
+					"loci":	"Denmark",
+					"name":	"hCoV-19/Denmark/DCGC-29732/2020"
+				}]
+		}, {
+			"date":	"2020-04-03",
+			"id":	"Node_34",
+			"jump":	-1,
+			"SNPs":	["1(Deletion:AATTAAAGGTTTATACCTTCCCAGG->-)", "25(SNP:T->G)", "241(SNP:C->T)", "3037(SNP:C->T)", "14408(SNP:C->T)", "14501(SNP:T->C)", "18898(SNP:G->T)", "23403(SNP:A->G)", "25088(SNP:G->T)", "28881(SNP:G->A)", "28882(SNP:G->A)", "28883(SNP:G->C)", "29857(SNP:C->T)", "29858(SNP:T->C)", "29859(SNP:T->G)", "29861(SNP:G->T)", "29862(SNP:G->C)", "29863(Indel:AGAATGACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA->T)"],
+			"radius":	1,
+			"pieChart":	[{
+					"color":	"Brazil",
+					"percent":	100
+				}],
+			"Virus":	[{
+					"acc":	"EPI_ISL_471542",
+					"date":	"2020-04-03",
+					"loci":	"Brazil",
+					"name":	"hCoV-19/Brazil/SP-127/2020"
+				}]
+		}, {
+			"date":	"2020-05-15",
+			"id":	"Node_35",
+			"jump":	-1,
+			"SNPs":	["1(Deletion:AATTAAAGGTTTATACCTTCCCAGGTAAC->-)", "241(SNP:C->T)", "678(SNP:C->T)", "1913(SNP:C->T)", "2416(SNP:C->T)", "2455(SNP:C->T)", "2528(SNP:G->A)", "3037(SNP:C->T)", "12525(SNP:C->T)", "13665(SNP:C->T)", "14358(SNP:C->T)", "14408(SNP:C->T)", "16806(SNP:C->T)", "20014(SNP:G->T)", "23403(SNP:A->G)", "25563(SNP:G->T)", "25718(SNP:A->G)", "29865(Deletion:AATGACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA->A)"],
+			"radius":	1,
+			"pieChart":	[{
+					"color":	"Canada",
+					"percent":	100
+				}],
+			"Virus":	[{
+					"acc":	"EPI_ISL_806356",
+					"date":	"2020-05-15",
+					"loci":	"Canada",
+					"name":	"hCoV-19/Canada/AB-62882/2020"
+				}]
+		}, {
+			"date":	"2020-11-14",
+			"id":	"Node_36",
+			"jump":	-1,
+			"SNPs":	["204(SNP:G->T)", "241(SNP:C->T)", "445(SNP:T->C)", "3037(SNP:C->T)", "6286(SNP:C->T)", "8316(SNP:C->T)", "11533(SNP:A->G)", "14408(SNP:C->T)", "21255(SNP:G->C)", "21614(SNP:C->T)", "22227(SNP:C->T)", "23403(SNP:A->G)", "24334(SNP:C->T)", "26424(SNP:T->C)", "26801(SNP:C->G)", "27944(SNP:C->T)", "28932(SNP:C->T)", "29645(SNP:G->T)"],
+			"radius":	1,
+			"pieChart":	[{
+					"color":	"United Kingdom",
+					"percent":	100
+				}],
+			"Virus":	[{
+					"acc":	"EPI_ISL_674483",
+					"date":	"2020-11-14",
+					"loci":	"United Kingdom",
+					"name":	"COG-UK/MILK-B88384"
+				}]
+		}, {
+			"date":	"2020-09-04",
+			"id":	"Node_37",
+			"jump":	-1,
+			"SNPs":	["241(SNP:C->T)", "3037(SNP:C->T)", "8653(SNP:G->T)", "9433(SNP:A->T)", "10265(SNP:G->A)", "14408(SNP:C->T)", "15380(SNP:G->T)", "17078(SNP:A->G)", "19650(SNP:A->G)", "21575(SNP:C->T)", "23403(SNP:A->G)", "23621(SNP:G->T)", "27841(SNP:G->T)", "28378(SNP:G->C)", "28881(SNP:G->A)", "28882(SNP:G->A)", "28883(SNP:G->C)"],
+			"radius":	1,
+			"pieChart":	[{
+					"color":	"United Kingdom",
+					"percent":	100
+				}],
+			"Virus":	[{
+					"acc":	"EPI_ISL_590553",
+					"date":	"2020-09-04",
+					"loci":	"United Kingdom",
+					"name":	"COG-UK/QEUH-9B6F4F"
+				}]
+		}, {
+			"date":	"2020-08-28",
+			"id":	"Node_38",
+			"jump":	-1,
+			"SNPs":	["241(SNP:C->T)", "3037(SNP:C->T)", "5507(SNP:T->A)", "7299(SNP:C->T)", "10448(SNP:C->T)", "11083(SNP:G->T)", "14408(SNP:C->T)", "19955(SNP:C->T)", "20268(SNP:A->G)", "21614(SNP:C->T)", "23403(SNP:A->G)", "26542(SNP:C->T)", "28603(SNP:C->T)", "28854(SNP:C->T)", "29167(SNP:C->T)"],
+			"radius":	1,
+			"pieChart":	[{
+					"color":	"United Kingdom",
+					"percent":	100
+				}],
+			"Virus":	[{
+					"acc":	"EPI_ISL_573018",
+					"date":	"2020-08-28",
+					"loci":	"United Kingdom",
+					"name":	"hCoV-19/England/ALDP-9B65D4/2020"
+				}]
+		}, {
+			"date":	"2020-11-16",
+			"id":	"Node_39",
+			"jump":	-1,
+			"SNPs":	["241(SNP:C->T)", "3037(SNP:C->T)", "4320(SNP:C->T)", "6037(SNP:C->T)", "6633(SNP:C->T)", "10626(SNP:C->T)", "14408(SNP:C->T)", "16954(SNP:C->T)", "18486(SNP:C->T)", "19072(SNP:G->T)", "20268(SNP:A->G)", "21057(SNP:C->T)", "22162(SNP:T->C)", "23403(SNP:A->G)", "28854(SNP:C->T)"],
+			"radius":	1,
+			"pieChart":	[{
+					"color":	"United States",
+					"percent":	100
+				}],
+			"Virus":	[{
+					"acc":	"EPI_ISL_812224",
+					"date":	"2020-11-16",
+					"loci":	"United States",
+					"name":	"hCoV-19/USA/TN-CDC-MN30-6928/2020"
+				}]
+		}, {
+			"date":	"2020-04-11",
+			"id":	"Node_40",
+			"jump":	-1,
+			"SNPs":	["1(Deletion:AATTAAAGGTTTATACCTTCCCAGGTAACAAACCAACCAACTTTCGATCTCTTGT->-)", "241(SNP:C->T)", "1059(SNP:C->T)", "3037(SNP:C->T)", "5934(SNP:C->T)", "14408(SNP:C->T)", "16260(SNP:C->T)", "17790(SNP:G->T)", "21604(SNP:G->T)", "23403(SNP:A->G)", "25563(SNP:G->T)", "25728(SNP:C->T)", "28821(SNP:C->A)", "29836(Deletion:CCCATGTGATTTTAATAGCTTCTTAGGAGAATGACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA->C)"],
+			"radius":	1,
+			"pieChart":	[{
+					"color":	"United States",
+					"percent":	100
+				}],
+			"Virus":	[{
+					"acc":	"EPI_ISL_626405",
+					"date":	"2020-04-11",
+					"loci":	"United States",
+					"name":	"hCoV-19/USA/IL-NM-0432/2020"
+				}]
+		}, {
+			"date":	"2020-10-26",
+			"id":	"Node_41",
+			"jump":	-1,
+			"SNPs":	["241(SNP:C->T)", "3037(SNP:C->T)", "4285(SNP:G->T)", "7767(SNP:T->C)", "8047(SNP:C->T)", "14408(SNP:C->T)", "17104(SNP:C->T)", "18186(SNP:G->T)", "20268(SNP:A->G)", "22879(SNP:C->A)", "23403(SNP:A->G)", "27800(SNP:C->A)", "28854(SNP:C->T)", "29734(SNP:G->C)"],
+			"radius":	1,
+			"pieChart":	[{
+					"color":	"Italy",
+					"percent":	100
+				}],
+			"Virus":	[{
+					"acc":	"EPI_ISL_776932",
+					"date":	"2020-10-26",
+					"loci":	"Italy",
+					"name":	"hCoV-19/Italy/CAM-TIGEM-284/2020"
+				}]
+		}, {
+			"date":	"2020-03-26",
+			"id":	"Node_42",
+			"jump":	-1,
+			"SNPs":	["1(Deletion:AATTAAAGGTTTATA->-)", "18(Deletion:TCCCAGGTAACAAACCAA->T)", "36(SNP:C->T)", "1929(SNP:C->T)", "5784(SNP:C->T)", "8782(SNP:C->T)", "17747(SNP:C->T)", "17858(SNP:A->G)", "18060(SNP:C->T)", "23525(SNP:C->T)", "26730(SNP:G->A)", "28144(SNP:T->C)", "29862(Deletion:GAGAATGACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA->G)"],
+			"radius":	1,
+			"pieChart":	[{
+					"color":	"United States",
+					"percent":	100
+				}],
+			"Virus":	[{
+					"acc":	"EPI_ISL_427177",
+					"date":	"2020-03-26",
+					"loci":	"United States",
+					"name":	"hCoV-19/USA/WA-UW-3814/2020"
+				}]
+		}, {
+			"date":	"2020-07-30",
+			"id":	"Node_43",
+			"jump":	-1,
+			"SNPs":	["1(Deletion:AATTAAAGGTTTATACCTTCCCAGGTAACAAACCAA->-)", "241(SNP:C->T)", "709(SNP:G->A)", "3037(SNP:C->T)", "7012(SNP:T->A)", "14408(SNP:C->T)", "19402(SNP:C->T)", "23403(SNP:A->G)", "28326(SNP:G->T)", "28881(SNP:G->A)", "28882(SNP:G->A)", "28883(SNP:G->C)", "29854(Deletion:CTTCTTAGGAGAATGACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA->C)"],
+			"radius":	1,
+			"pieChart":	[{
+					"color":	"South Africa",
+					"percent":	100
+				}],
+			"Virus":	[{
+					"acc":	"EPI_ISL_515794",
+					"date":	"2020-07-30",
+					"loci":	"South Africa",
+					"name":	"hCoV-19/South Africa/KRISP-K002437/2020"
+				}]
+		}, {
+			"date":	"2020-08-28",
+			"id":	"Node_44",
+			"jump":	-1,
+			"SNPs":	["241(SNP:C->T)", "3037(SNP:C->T)", "10933(SNP:T->C)", "11447(SNP:G->A)", "14408(SNP:C->T)", "21648(SNP:C->T)", "23403(SNP:A->G)", "24574(SNP:G->A)", "25728(SNP:C->T)", "27461(SNP:G->T)", "28881(SNP:G->A)", "28882(SNP:G->A)", "28883(SNP:G->C)"],
+			"radius":	1,
+			"pieChart":	[{
+					"color":	"United Kingdom",
+					"percent":	100
+				}],
+			"Virus":	[{
+					"acc":	"EPI_ISL_590295",
+					"date":	"2020-08-28",
+					"loci":	"United Kingdom",
+					"name":	"COG-UK/ALDP-9B5827"
+				}]
+		}, {
+			"date":	"2020-08-31",
+			"id":	"Node_45",
+			"jump":	-1,
+			"SNPs":	["241(SNP:C->T)", "3037(SNP:C->T)", "3373(SNP:C->A)", "9733(SNP:C->T)", "14408(SNP:C->T)", "18032(SNP:C->T)", "20273(SNP:T->C)", "20759(SNP:C->T)", "23403(SNP:A->G)", "28881(SNP:G->A)", "28882(SNP:G->A)", "28883(SNP:G->C)", "29557(SNP:G->T)"],
+			"radius":	1,
+			"pieChart":	[{
+					"color":	"United Kingdom",
+					"percent":	100
+				}],
+			"Virus":	[{
+					"acc":	"EPI_ISL_550120",
+					"date":	"2020-08-31",
+					"loci":	"United Kingdom",
+					"name":	"COG-UK/MILK-9A8B3D"
+				}]
+		}, {
+			"date":	"2020-04-17",
+			"id":	"Node_46",
+			"jump":	-1,
+			"SNPs":	["1(Deletion:AATTAAAGGTTTATACCTTCCCAGGTAACAAACCAACCAACTTTCGATCTCTTGT->-)", "241(SNP:C->T)", "1059(SNP:C->T)", "3037(SNP:C->T)", "14408(SNP:C->T)", "18171(SNP:C->T)", "23403(SNP:A->G)", "24368(SNP:G->T)", "25563(SNP:G->T)", "26456(SNP:C->T)", "29768(Deletion:ACAATGCTAGGGAGAGCTGCCTATATGGAAGAGCCCTAATGTGTAAAATTAATTTTAGTAGTGCTATCCCCATGTGATTTTAATAGCTTCTTAGGAGAATGACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA->A)"],
+			"radius":	1,
+			"pieChart":	[{
+					"color":	"United Kingdom",
+					"percent":	100
+				}],
+			"Virus":	[{
+					"acc":	"EPI_ISL_444239",
+					"date":	"2020-04-17",
+					"loci":	"United Kingdom",
+					"name":	"hCoV-19/England/LOND-D5BC7/2020"
+				}]
+		}, {
+			"date":	"2020-05-03",
+			"id":	"Node_47",
+			"jump":	-1,
+			"SNPs":	["1(Deletion:AATTAAAGGTTTATACCTTCCCAGGTAACAAACCAACCAACTTTCGATCTCTTGTAGATCTGT->-)", "241(SNP:C->T)", "3037(SNP:C->T)", "5654(SNP:C->T)", "10507(SNP:C->T)", "12651(SNP:C->T)", "14408(SNP:C->T)", "18877(SNP:C->T)", "23403(SNP:A->G)", "25563(SNP:G->T)", "29768(Deletion:ACAATGCTAGGGAGAGCTGCCTATATGGAAGAGCCCTAATGTGTAAAATTAATTTTAGTAGTGCTATCCCCATGTGATTTTAATAGCTTCTTAGGAGAATGACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA->A)"],
+			"radius":	1,
+			"pieChart":	[{
+					"color":	"Colombia",
+					"percent":	100
+				}],
+			"Virus":	[{
+					"acc":	"EPI_ISL_941113",
+					"date":	"2020-05-03",
+					"loci":	"Colombia",
+					"name":	"hCoV-19/Colombia/AMA-GUR-06736/2020"
+				}]
+		}, {
+			"date":	"2020-04-01",
+			"id":	"Node_48",
+			"jump":	-1,
+			"SNPs":	["1(Deletion:AATTAAAGGT->-)", "241(SNP:C->T)", "3037(SNP:C->T)", "14408(SNP:C->T)", "18627(SNP:G->A)", "20268(SNP:A->G)", "23403(SNP:A->G)", "29866(Deletion:ATGACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA->A)"],
+			"radius":	1,
+			"pieChart":	[{
+					"color":	"United Kingdom",
+					"percent":	100
+				}],
+			"Virus":	[{
+					"acc":	"EPI_ISL_441296",
+					"date":	"2020-04-01",
+					"loci":	"United Kingdom",
+					"name":	"hCoV-19/England/CAMB-79C77/2020"
+				}]
+		}, {
+			"date":	"2020-04-12",
+			"id":	"Node_49",
+			"jump":	-1,
+			"SNPs":	["241(SNP:C->T)", "3037(SNP:C->T)", "14408(SNP:C->T)", "18657(SNP:C->T)", "20268(SNP:A->G)", "23403(SNP:A->G)", "27442(SNP:C->T)", "28854(SNP:C->T)"],
+			"radius":	1,
+			"pieChart":	[{
+					"color":	"United Kingdom",
+					"percent":	100
+				}],
+			"Virus":	[{
+					"acc":	"EPI_ISL_538752",
+					"date":	"2020-04-12",
+					"loci":	"United Kingdom",
+					"name":	"COG-UK/LEED-2A974E"
+				}]
+		}, {
+			"date":	"2020-01-01",
+			"id":	"Node_50",
+			"jump":	-1,
+			"SNPs":	[],
+			"radius":	1,
+			"pieChart":	[{
+					"color":	"United States",
+					"percent":	100
+				}],
+			"Virus":	[{
+					"acc":	"EPI_ISL_100000",
+					"date":	"2020-01-01",
+					"loci":	"United States",
+					"name":	"ReferenceSeq"
+				}]
+		}],
+	"infor":	"As of 2023-06-01 11:28:30, 51 strains of virus have been sampled, with a total of 51 haplotypes. heightOfTree = 1",
+	"links":	[{
+			"source":	"Node_50",
+			"target":	"Node_0",
+			"distance":	40,
+			"subset":	1,
+			"minTime":	1
+		}, {
+			"source":	"Node_50",
+			"target":	"Node_1",
+			"distance":	39,
+			"subset":	1,
+			"minTime":	1
+		}, {
+			"source":	"Node_50",
+			"target":	"Node_2",
+			"distance":	38,
+			"subset":	1,
+			"minTime":	1
+		}, {
+			"source":	"Node_50",
+			"target":	"Node_3",
+			"distance":	37,
+			"subset":	1,
+			"minTime":	1
+		}, {
+			"source":	"Node_50",
+			"target":	"Node_4",
+			"distance":	36,
+			"subset":	1,
+			"minTime":	1
+		}, {
+			"source":	"Node_50",
+			"target":	"Node_5",
+			"distance":	35,
+			"subset":	1,
+			"minTime":	1
+		}, {
+			"source":	"Node_50",
+			"target":	"Node_6",
+			"distance":	35,
+			"subset":	1,
+			"minTime":	1
+		}, {
+			"source":	"Node_50",
+			"target":	"Node_7",
+			"distance":	34,
+			"subset":	1,
+			"minTime":	1
+		}, {
+			"source":	"Node_50",
+			"target":	"Node_8",
+			"distance":	33,
+			"subset":	1,
+			"minTime":	1
+		}, {
+			"source":	"Node_50",
+			"target":	"Node_9",
+			"distance":	29,
+			"subset":	1,
+			"minTime":	1
+		}, {
+			"source":	"Node_50",
+			"target":	"Node_10",
+			"distance":	27,
+			"subset":	1,
+			"minTime":	1
+		}, {
+			"source":	"Node_50",
+			"target":	"Node_11",
+			"distance":	23,
+			"subset":	1,
+			"minTime":	1
+		}, {
+			"source":	"Node_50",
+			"target":	"Node_12",
+			"distance":	23,
+			"subset":	1,
+			"minTime":	1
+		}, {
+			"source":	"Node_50",
+			"target":	"Node_13",
+			"distance":	22,
+			"subset":	1,
+			"minTime":	1
+		}, {
+			"source":	"Node_50",
+			"target":	"Node_14",
+			"distance":	22,
+			"subset":	1,
+			"minTime":	1
+		}, {
+			"source":	"Node_33",
+			"target":	"Node_15",
+			"distance":	3,
+			"subset":	1,
+			"minTime":	2
+		}, {
+			"source":	"Node_50",
+			"target":	"Node_16",
+			"distance":	22,
+			"subset":	1,
+			"minTime":	1
+		}, {
+			"source":	"Node_50",
+			"target":	"Node_17",
+			"distance":	22,
+			"subset":	1,
+			"minTime":	1
+		}, {
+			"source":	"Node_50",
+			"target":	"Node_18",
+			"distance":	21,
+			"subset":	1,
+			"minTime":	1
+		}, {
+			"source":	"Node_50",
+			"target":	"Node_19",
+			"distance":	21,
+			"subset":	1,
+			"minTime":	1
+		}, {
+			"source":	"Node_50",
+			"target":	"Node_20",
+			"distance":	21,
+			"subset":	1,
+			"minTime":	1
+		}, {
+			"source":	"Node_33",
+			"target":	"Node_21",
+			"distance":	2,
+			"subset":	1,
+			"minTime":	2
+		}, {
+			"source":	"Node_50",
+			"target":	"Node_22",
+			"distance":	20,
+			"subset":	1,
+			"minTime":	1
+		}, {
+			"source":	"Node_50",
+			"target":	"Node_23",
+			"distance":	20,
+			"subset":	1,
+			"minTime":	1
+		}, {
+			"source":	"Node_50",
+			"target":	"Node_24",
+			"distance":	20,
+			"subset":	1,
+			"minTime":	1
+		}, {
+			"source":	"Node_50",
+			"target":	"Node_25",
+			"distance":	20,
+			"subset":	1,
+			"minTime":	1
+		}, {
+			"source":	"Node_50",
+			"target":	"Node_26",
+			"distance":	20,
+			"subset":	1,
+			"minTime":	1
+		}, {
+			"source":	"Node_50",
+			"target":	"Node_27",
+			"distance":	20,
+			"subset":	1,
+			"minTime":	1
+		}, {
+			"source":	"Node_50",
+			"target":	"Node_28",
+			"distance":	20,
+			"subset":	1,
+			"minTime":	1
+		}, {
+			"source":	"Node_50",
+			"target":	"Node_29",
+			"distance":	20,
+			"subset":	1,
+			"minTime":	1
+		}, {
+			"source":	"Node_50",
+			"target":	"Node_30",
+			"distance":	19,
+			"subset":	1,
+			"minTime":	1
+		}, {
+			"source":	"Node_50",
+			"target":	"Node_31",
+			"distance":	19,
+			"subset":	1,
+			"minTime":	1
+		}, {
+			"source":	"Node_50",
+			"target":	"Node_32",
+			"distance":	19,
+			"subset":	1,
+			"minTime":	1
+		}, {
+			"source":	"Node_50",
+			"target":	"Node_33",
+			"distance":	19,
+			"subset":	1,
+			"minTime":	1
+		}, {
+			"source":	"Node_50",
+			"target":	"Node_34",
+			"distance":	18,
+			"subset":	1,
+			"minTime":	1
+		}, {
+			"source":	"Node_50",
+			"target":	"Node_35",
+			"distance":	18,
+			"subset":	1,
+			"minTime":	1
+		}, {
+			"source":	"Node_50",
+			"target":	"Node_36",
+			"distance":	18,
+			"subset":	1,
+			"minTime":	1
+		}, {
+			"source":	"Node_50",
+			"target":	"Node_37",
+			"distance":	17,
+			"subset":	1,
+			"minTime":	1
+		}, {
+			"source":	"Node_50",
+			"target":	"Node_38",
+			"distance":	15,
+			"subset":	1,
+			"minTime":	1
+		}, {
+			"source":	"Node_50",
+			"target":	"Node_39",
+			"distance":	15,
+			"subset":	1,
+			"minTime":	1
+		}, {
+			"source":	"Node_50",
+			"target":	"Node_40",
+			"distance":	14,
+			"subset":	1,
+			"minTime":	1
+		}, {
+			"source":	"Node_50",
+			"target":	"Node_41",
+			"distance":	14,
+			"subset":	1,
+			"minTime":	1
+		}, {
+			"source":	"Node_50",
+			"target":	"Node_42",
+			"distance":	13,
+			"subset":	1,
+			"minTime":	1
+		}, {
+			"source":	"Node_50",
+			"target":	"Node_43",
+			"distance":	13,
+			"subset":	1,
+			"minTime":	1
+		}, {
+			"source":	"Node_50",
+			"target":	"Node_44",
+			"distance":	13,
+			"subset":	1,
+			"minTime":	1
+		}, {
+			"source":	"Node_50",
+			"target":	"Node_45",
+			"distance":	13,
+			"subset":	1,
+			"minTime":	1
+		}, {
+			"source":	"Node_50",
+			"target":	"Node_46",
+			"distance":	11,
+			"subset":	1,
+			"minTime":	1
+		}, {
+			"source":	"Node_50",
+			"target":	"Node_47",
+			"distance":	11,
+			"subset":	1,
+			"minTime":	1
+		}, {
+			"source":	"Node_50",
+			"target":	"Node_48",
+			"distance":	8,
+			"subset":	1,
+			"minTime":	1
+		}, {
+			"source":	"Node_50",
+			"target":	"Node_49",
+			"distance":	8,
+			"subset":	1,
+			"minTime":	1
+		}],
+	"netInfor":	{
+		"numOfViruses":	51,
+		"numOfEdges":	50,
+		"numOfHaps":	51,
+		"heightOfTree":	1
+	}
+}
