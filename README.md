@@ -172,7 +172,8 @@ python GenNetworkConfig.py Test167.json Test167.meta Test167Conf
 
 Reference
 ========================
-* Bandelt, H.J., Forster, P., and Rohl, A. (1999). Median-joining networks for inferring intraspecific phylogenies. Mol Biol Evol 16, 37-48.
+*  Chi, L., Zhang, X., Xue, Y., & Chen, H. (2023). fastHaN: a fast and scalable program for constructing haplotype network for large-sample sequences. Molecular Ecology Resources, 00, 1– 5.
+*  Bandelt, H.J., Forster, P., and Rohl, A. (1999). Median-joining networks for inferring intraspecific phylogenies. Mol Biol Evol 16, 37-48.
 * Clement, M., Posada, D., and Crandall, K.A. (2000). TCS: a computer program to estimate gene genealogies. Mol Ecol 9, 1657-1659.
 * Leigh, J.W. (2015). POPART: full-feature software for haplotype network construction. Methods in Ecology and Evolution.
 * Murias dos Santos, A., Cabezas, M.P., Tavares, A.I., Xavier, R., and Branco, M. (2016). tcsBU: a tool to extend TCS network layout and visualization. Bioinformatics 32, 627-628.
